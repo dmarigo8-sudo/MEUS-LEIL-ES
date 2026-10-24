@@ -86,7 +86,7 @@ select option{color:#000}
 .bn b{position:relative;z-index:1;font-size:18px;line-height:1.15;margin-top:4px;max-width:78%;text-shadow:0 2px 8px rgba(0,0,0,.35)}
 .bn span{position:relative;z-index:1;font-size:12px;opacity:.92;margin-top:5px}
 .bn.big{min-height:150px;margin:12px 0 4px}.bn.big b{font-size:22px}
-.bn.pic{min-height:230px;background-size:cover;background-position:50% 24%;padding:0}.bn.pic::before,.bn.pic::after{display:none}.bimg{display:block;max-width:100%;max-height:48vh;margin:12px auto 4px;border-radius:18px;box-shadow:0 8px 24px rgba(0,0,0,.5)}.ti.l em{background:rgba(110,180,255,.28);color:#a9d4ff}.ti.e em{background:rgba(255,120,160,.26);color:#ffb3c9}.ti.e small:first-of-type{font-weight:700;color:#fff}.lt{display:inline-flex;align-items:center;justify-content:center;background:rgba(255,255,255,.95);border-radius:14px;padding:6px 12px;box-shadow:0 4px 12px rgba(0,0,0,.3)}.lt img{height:40px;width:auto;max-width:120px;display:block}.bimg.full{max-height:none;width:100%;margin:0 0 10px;border-radius:16px}</style>
+.bn.pic{min-height:230px;background-size:cover;background-position:50% 24%;padding:0}.bn.pic::before,.bn.pic::after{display:none}.bimg{display:block;max-width:100%;max-height:48vh;margin:12px auto 4px;border-radius:18px;box-shadow:0 8px 24px rgba(0,0,0,.5)}.ti.l em{background:rgba(110,180,255,.28);color:#a9d4ff}.ti.e em{background:rgba(255,120,160,.26);color:#ffb3c9}.ti.e small:first-of-type{font-weight:700;color:#fff}.lt{display:inline-flex;align-items:center;justify-content:center;background:rgba(255,255,255,.95);border-radius:14px;padding:6px 12px;box-shadow:0 4px 12px rgba(0,0,0,.3)}.lt img{height:40px;width:auto;max-width:120px;display:block}.bimg.full{max-height:none;width:100%;margin:0 0 10px;border-radius:16px}.inf{padding:2px 4px 4px}.inf .tm{font-size:12px;font-weight:700;text-transform:capitalize;opacity:.92}.inf h3{margin:5px 0 4px;font-size:17px;line-height:1.25}.inf p{margin:0;color:var(--m);font-size:13px}.tap{margin:10px 4px 0;font-size:11.5px;color:var(--m)}.panel #dB .inf{padding:6px 4px 2px}</style>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute"><filter id="lg" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".012 .02" numOctaves="2" seed="4" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="26" xChannelSelector="R" yChannelSelector="G"/></filter></svg>
@@ -179,9 +179,10 @@ function setCat(c,el){cat=c;setTk(c=="Leite"?"leite":c=="Equinos"?"eq":"boi");[]
 var DS=["domingo","segunda-feira","terça-feira","quarta-feira","quinta-feira","sexta-feira","sábado"],io;
 var CC={"Nelore":["#d4a017","#7a3b00"],"Gado de Corte":["#c1121f","#4a0509"],"Leite":["#1457d9","#06204f"],"Equinos":["#1a9448","#06301a"]};
 function bnr(l,big){var im=l[7]||DB.IMG[l[5].split("-")[0]];if(im){return big?"<img class='bimg' src='"+im+"' alt='"+l[2]+"'>":"<img class='bimg full' src='"+im+"' alt='"+l[2]+"'>"}var c=CC[l[3]]||["#6b7280","#111827"];return"<div class='bn"+(big?" big":"")+"' style='--a:"+c[0]+";--b:"+c[1]+"'><small>"+l[3].toUpperCase()+" \u00b7 "+l[0].split("-").reverse().slice(0,2).join("/")+" \u00b7 "+l[1]+"</small><b>"+l[2]+"</b><span>\ud83d\udccd "+l[4]+"</span></div>"}
+function info(l){var d=new Date(l[0]+"T12:00");return"<div class='inf'><div class='tm'>"+DS[d.getDay()]+" · "+l[0].split("-").reverse().slice(0,2).join("/")+" · "+(l[1]||"--:--")+" · "+l[3]+"</div><h3>"+l[2]+"</h3><p>\ud83d\udccd "+l[4]+"</p></div>"}
 function render(){var h="",last="",n=-1;DB.L.forEach(function(l,i){if(cat!="Todas"&&l[3]!=cat)return;
 if(l[0]!=last){last=l[0];n++;var t=TH[n%4],d=new Date(l[0]+"T12:00");h+="<div class='blk' data-c='"+t.c+"'><div class='glass bh'>"+logo(t)+"<span>"+DS[d.getDay()]+"<br>"+l[0].split('-').reverse().slice(0,2).join('/')+"</span></div>"}
-h+="<div class='glass card' onclick='openD("+i+")'>"+bnr(l)+"<div class='tm'>Toque para ver catálogo e participar</div></div>";
+h+="<div class='glass card' onclick='openD("+i+")'>"+bnr(l)+info(l)+"<div class='tap'>Toque para ver catálogo e participar</div></div>";
 var nx=DB.L.slice(i+1).filter(function(x){return cat=="Todas"||x[3]==cat})[0];if(!nx||nx[0]!=l[0])h+="</div>"});
 $("list").innerHTML=h||"<p class='sub'>Nenhum leilão nesta categoria.</p>";watch()}
 function watch(){if(io)io.disconnect();var vis={};io=new IntersectionObserver(function(en){en.forEach(function(e){vis[e.target.dataset.id]=e});pick()},{rootMargin:"-30% 0px -50% 0px"});
@@ -191,7 +192,7 @@ window.addEventListener("scroll",function(){if(window.scrollY<80)setBg(ME.c)},{p
 render();
 function who(){var c=window._c;$("who").innerHTML=c?"Olá, "+c.nome.split(" ")[0]+" · <a href='#' onclick='sair();return false'>sair</a>":""}who();
 function sair(){try{localStorage.removeItem(KEY)}catch(e){}window._c=null;who()}
-function openD(i){cur=DB.L[i];$("dB").innerHTML=bnr(cur,1);$("lCat").href=cur[6]?"https://programaleiloes.com/leilao/download/"+cur[6]:"https://programaleiloes.com/agenda/leilao/"+cur[5];$("sh1").classList.add("show")}
+function openD(i){cur=DB.L[i];$("dB").innerHTML=bnr(cur,1)+info(cur);$("lCat").href=cur[6]?"https://programaleiloes.com/leilao/download/"+cur[6]:"https://programaleiloes.com/agenda/leilao/"+cur[5];$("sh1").classList.add("show")}
 function closeS(){$("sh1").classList.remove("show");$("sh2").classList.remove("show")}
 [].forEach.call(document.querySelectorAll(".sheet"),function(s){s.addEventListener("click",function(e){if(e.target==s)closeS()})});
 function go(extra){var m="Olá! Quero participar do leilão: "+cur[2]+" ("+cur[0].split("-").reverse().join("/")+" "+cur[1]+")."+(extra||"");var u="https://api.whatsapp.com/send?phone=5543984371011&text="+encodeURIComponent(m);var a=$("wl");a.href=u;$("toast").style.display="block";a.click()}
