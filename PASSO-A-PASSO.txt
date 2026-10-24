@@ -1,0 +1,44 @@
+MEUS LEILÕES - COLOCAR NO AR DE GRAÇA (uns 15 minutos, no computador)
+
+PARTE 1 - CRIAR A CONTA E O REPOSITÓRIO
+1. Acesse github.com e clique em "Sign up". Crie a conta (e-mail, senha, nome de usuário). Confirme o e-mail.
+2. Depois de entrar, clique no "+" no canto de cima e em "New repository".
+3. Em "Repository name" escreva:  meus-leiloes
+4. Marque a opção "Public" (precisa ser público para ser grátis).
+5. Clique em "Create repository".
+
+PARTE 2 - ENVIAR OS ARQUIVOS
+6. No seu computador, abra o arquivo meus-leiloes-pacote.zip e extraia (clique direito > Extrair tudo).
+7. No GitHub, na página do repositório, clique em "uploading an existing file".
+8. Abra a pasta extraída, selecione TUDO que está dentro (index.html, data.json, cotacoes.json,
+   atualizar.py, a pasta banners e o arquivo .nojekyll) e ARRASTE para a janela do GitHub.
+   (Se não aparecer o .nojekyll, tudo bem, pode ficar sem.)
+9. Espere terminar de enviar e clique no botão verde "Commit changes".
+
+PARTE 3 - LIGAR O ROBÔ DAS 00:59
+10. Na página do repositório, clique em "Add file" > "Create new file".
+11. No campo do nome, digite exatamente:  .github/workflows/atualizar.yml
+    (ao digitar a barra "/", o GitHub cria as pastas sozinho).
+12. Abra o arquivo atualizar.yml que eu te enviei, copie TODO o texto e cole na caixa grande.
+13. Clique em "Commit changes" e depois em "Commit changes" de novo.
+
+PARTE 4 - LIGAR O SITE (GITHUB PAGES)
+14. Clique em "Settings" (engrenagem, no topo do repositório) > "Pages" (menu da esquerda).
+15. Em "Branch" escolha "main", deixe a pasta "/ (root)" e clique em "Save".
+16. Espere 1 a 2 minutos. Atualize a página: vai aparecer o endereço do seu app, parecido com
+    https://SEU-USUARIO.github.io/meus-leiloes/   <- esse é o link para mandar aos clientes.
+
+PARTE 5 - TESTAR O ROBÔ AGORA (sem esperar a meia-noite)
+17. Clique em "Actions" (topo) > "Atualizar leiloes" (esquerda) > "Run workflow" > botão verde "Run workflow".
+18. Espere 2 a 5 minutos. Se aparecer um check verde, deu certo: o robô leu o site, baixou os banners
+    e atualizou o app. Abra o link do app e confira.
+19. Se aparecer um X vermelho, clique nele, copie o texto do erro e me mande aqui. Eu corrijo.
+
+DEPOIS DISSO: todo dia, às 00:59, o robô atualiza sozinho. Você não precisa fazer nada.
+
+AVISOS
+- O GitHub às vezes atrasa essas execuções automáticas (minutos, e em dias de muito uso até horas).
+- As COTAÇÕES (arroba, leite, cavalos) estão no arquivo cotacoes.json e NÃO se atualizam sozinhas ainda.
+  Para trocar um valor: abra o arquivo no GitHub, clique no lápis, mude o número e salve.
+- Os CADASTROS dos clientes ficam só no celular de cada cliente. O repositório é público, então
+  NUNCA grave CPF nele. Para você receber os cadastros, o caminho é um formulário gratuito privado.

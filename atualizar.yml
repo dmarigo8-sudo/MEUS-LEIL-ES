@@ -1,0 +1,24 @@
+name: Atualizar leiloes
+on:
+  schedule:
+    - cron: "59 3 * * *"   # 00:59 no horario de Brasilia (03:59 UTC)
+  workflow_dispatch:        # permite rodar na mao pelo botao
+permissions:
+  contents: write
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 pillow
+      - run: python atualizar.py
+      - name: Salvar mudancas
+        run: |
+          git config user.name "robo-meus-leiloes"
+          git config user.email "robo@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Atualizacao automatica"
+          git push
