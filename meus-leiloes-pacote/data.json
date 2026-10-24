@@ -1,12 +1,12 @@
 {
- "atualizado": "23/10/2026 00:59",
+ "atualizado": "23/10/2026 23:00",
  "L": [
   [
    "2026-10-23",
    "12:00",
    "6º Leilão Nelore Floc",
    "Nelore",
-   "Maceió - AL",
+   "Floc Nelore PO Maceió - AL",
    "91395-6-leilao-nelore-floc",
    "25382-catalogo-do-leilao-em-pdf",
    "banners/91395.jpg"
@@ -16,220 +16,1460 @@
    "18:00",
    "8ª Edição Leilão Oferta do Dia",
    "Gado de Corte",
-   "Cuiabá - MT",
+   "Dia Gado de Corte Cuiabá - MT",
    "91715-8-edicao-leilao-oferta-do-dia",
    "",
-   ""
+   "banners/91715.jpg"
   ],
   [
    "2026-10-23",
    "20:00",
-   "2º Leilão Elite Cheiro de Terra - Nelore Joy",
+   "2° Leilão Elite Cheiro de Terra - Nelore Joy",
    "Nelore",
    "São José do Rio Preto - SP",
    "91383-2-leilao-elite-cheiro-de-terra-nelore-joy",
-   "",
-   ""
+   "25387-catalogo-do-leilao-em-pdf",
+   "banners/91383.jpg"
   ],
   [
    "2026-10-23",
    "20:00",
    "II Leilão JBJ Genetics Weekend",
    "Nelore",
-   "Nazário - GO",
+   "Genetics Weekend Nelore PO Nazário - GO",
    "91380-ii-leilao-jbj-genetics-weekend",
-   "",
-   ""
+   "25395-catalogo-do-leilao-em-pdf",
+   "banners/91380.jpg"
+  ],
+  [
+   "2026-10-24",
+   "12:00",
+   "2° Leilão Elite Cheiro de Terra - Nelore Joy.",
+   "Nelore",
+   "São José do Rio Preto - SP",
+   "91397-2-leilao-elite-cheiro-de-terra-nelore-joy",
+   "25389-catalogo-do-leilao-em-pdf",
+   "banners/91397.jpg"
+  ],
+  [
+   "2026-10-24",
+   "12:00",
+   "II Leilão JBJ Genetics Weekend.",
+   "Nelore",
+   "Genetics Weekend. Nelore PO Nazário - GO",
+   "91401-ii-leilao-jbj-genetics-weekend",
+   "25396-catalogo-do-leilao-em-pdf",
+   "banners/91401.jpg"
   ],
   [
    "2026-10-24",
    "12:00",
    "Leilão Nelore Pintado Retratos da Raça",
    "Nelore",
-   "Londrina - PR",
+   "da Raça Nelore PO Londrina - PR",
    "91418-leilao-nelore-pintado-retratos-da-raca",
-   "",
-   ""
+   "25390-catalogo-do-leilao-em-pdf",
+   "banners/91418.jpg"
   ],
   [
    "2026-10-24",
    "14:00",
    "1º Leilão Angus Real - Realeza",
-   "Gado de Corte",
-   "Abdon Batista - SC",
+   "Outros",
+   "Eutimio Pucci Ceregati Abdon Batista - SC",
    "91375-1-leilao-angus-real-realeza",
-   "",
-   ""
+   "25344-catalogo-do-leilao-em-pdf",
+   "banners/91375.jpg"
   ],
   [
    "2026-10-24",
    "14:00",
    "Leilão Gir Leiteiro São José do Can Can",
    "Leite",
-   "Uberaba - MG",
+   "do Can Can Gir Uberaba - MG",
    "91542-leilao-gir-leiteiro-sao-jose-do-can-can",
-   "",
-   ""
+   "25369-catalogo-do-leilao-em-pdf",
+   "banners/91542.jpg"
   ],
   [
    "2026-10-25",
    "09:00",
    "Leilão Virtual Excelência Genética SB da Mata",
    "Nelore",
-   "Londrina - PR",
+   "da Mata Nelore PO Londrina - PR",
    "91440-leilao-virtual-excelencia-genetica-sb-da-mata",
-   "",
-   ""
+   "25383-catalogo-do-leilao-em-pdf",
+   "banners/91440.jpg"
   ],
   [
    "2026-10-25",
    "10:00",
-   "II Leilão JBJ Genetics Weekend",
+   "II Leilão JBJ Genetics Weekend;",
    "Nelore",
-   "Nazário - GO",
+   "Genetics Weekend; Nelore PO Nazário - GO",
    "91424-ii-leilao-jbj-genetics-weekend",
-   "",
-   ""
+   "25375-catalogo-do-leilao-em-pdf",
+   "banners/91424.jpg"
   ],
   [
    "2026-10-26",
    "19:00",
    "1º Leilão Only Girls",
    "Equinos",
-   "Londrina - PR",
+   "Girls Quarto de Milha Londrina - PR",
    "91572-1-leilao-only-girls",
    "",
-   ""
+   "banners/91572.jpg"
   ],
   [
    "2026-10-26",
    "19:00",
    "Leilão Legacy Horse",
    "Equinos",
-   "Londrina - PR",
+   "Horse Quarto de Milha Londrina - PR",
    "91570-leilao-legacy-horse",
    "",
-   ""
+   "banners/91570.jpg"
   ],
   [
    "2026-10-26",
    "19:30",
    "3º Leilão Damas do Campo Nelore Floc",
    "Nelore",
-   "Maceió - AL",
+   "Pecuaria Maceió - AL",
    "91433-3-leilao-damas-do-campo-nelore-floc",
-   "",
-   ""
+   "25386-catalogo-do-leilao-em-pdf",
+   "banners/91433.jpg"
+  ],
+  [
+   "2026-10-26",
+   "19:30",
+   "Leilão Grupo Nova Sorocabana - Live",
+   "Maquinários",
+   "Live OUTROS Londrina - PR",
+   "91771-leilao-grupo-nova-sorocabana-live",
+   "25376-catalogo-do-leilao-em-pdf",
+   "banners/91771.jpg"
   ],
   [
    "2026-10-27",
    "19:00",
    "4º Leilão Virtual Touros Guadalupe",
    "Nelore",
-   "Londrina - PR",
+   "Touros Guadalupe Nelore PO Londrina - PR",
    "91445-4-leilao-virtual-touros-guadalupe",
-   "",
-   ""
+   "25353-catalogo-do-leilao-em-pdf",
+   "banners/91445.jpg"
+  ],
+  [
+   "2026-10-27",
+   "19:30",
+   "Leilão Grupo Nova Sorocabana -1ª Etapa",
+   "Maquinários",
+   "1ª Etapa OUTROS Londrina - PR",
+   "91749-leilao-grupo-nova-sorocabana-1-etapa",
+   "25377-catalogo-do-leilao-em-pdf",
+   "banners/91749.jpg"
   ],
   [
    "2026-10-27",
    "20:00",
    "4º Leilão Bruno Haik Assessoria",
    "Equinos",
-   "Londrina - PR",
+   "Assessoria Quarto de Milha Londrina - PR",
    "91764-4-leilao-bruno-haik-assessoria",
    "",
-   ""
+   "banners/91764.jpg"
   ],
   [
    "2026-10-27",
    "20:00",
    "Leilão Gir Leiteiro Pica Pau Azul",
    "Leite",
-   "Londrina - PR",
+   "Pau Azul Gir Leiteiro Londrina - PR",
    "91444-leilao-gir-leiteiro-pica-pau-azul",
    "",
-   ""
+   "banners/91444.jpg"
   ],
   [
    "2026-10-28",
    "19:00",
    "4º Leilão Matrizes Santa Fé & Convidados",
    "Nelore",
-   "Londrina - PR",
+   "& Convidados Nelore PO Londrina - PR",
    "91538-4-leilao-matrizes-santa-fe-convidados",
    "",
-   ""
+   "banners/91538.jpg"
+  ],
+  [
+   "2026-10-28",
+   "19:30",
+   "Leilão Grupo Nova Sorocabana - 2ª Etapa",
+   "Maquinários",
+   "2ª Etapa OUTROS Londrina - PR",
+   "91750-leilao-grupo-nova-sorocabana-2-etapa",
+   "25378-catalogo-do-leilao-em-pdf",
+   "banners/91750.jpg"
   ],
   [
    "2026-10-28",
    "20:00",
    "2º Leilão Virtual Herança Genética Naviraí - Reprodutores",
    "Nelore",
-   "Londrina - PR",
+   "Reprodutores Nelore PO Londrina - PR",
    "91453-2-leilao-virtual-heranca-genetica-navirai-reprodutores",
-   "",
-   ""
+   "25360-catalogo-do-leilao-em-pdf",
+   "banners/91453.jpg"
   ],
   [
    "2026-10-29",
    "19:00",
    "9º Leilão Virtual Nelore DF",
    "Nelore",
-   "Londrina - PR",
+   "DF Nelore PO Londrina - PR",
    "91458-9-leilao-virtual-nelore-df",
+   "25385-catalogo-do-leilao-em-pdf",
+   "banners/91458.jpg"
+  ],
+  [
+   "2026-10-29",
+   "19:00",
+   "Leilão Virtual Aliança Genética",
+   "Outros",
+   "Ultrablack Porto Alegre - RS",
+   "91781-leilao-virtual-alianca-genetica",
    "",
-   ""
+   "banners/91781.jpg"
+  ],
+  [
+   "2026-10-29",
+   "19:30",
+   "Leilão Grupo Nova Sorocabana - 3ª Etapa",
+   "Maquinários",
+   "3ª Etapa OUTROS Londrina - PR",
+   "91751-leilao-grupo-nova-sorocabana-3-etapa",
+   "25379-catalogo-do-leilao-em-pdf",
+   "banners/91751.jpg"
+  ],
+  [
+   "2026-10-29",
+   "20:00",
+   "2º Leilão Virtual Herança Genética Naviraí - Matrizes",
+   "Nelore",
+   "Matrizes Nelore PO Londrina - PR",
+   "91454-2-leilao-virtual-heranca-genetica-navirai-matrizes",
+   "25361-catalogo-do-leilao-em-pdf",
+   "banners/91454.jpg"
   ],
   [
    "2026-10-29",
    "20:00",
    "Leilão Excellence Haras Cruzeiro",
    "Equinos",
-   "Londrina - PR",
+   "Cruzeiro Puro Sangue Árabe Londrina - PR",
    "91587-leilao-excellence-haras-cruzeiro",
+   "25372-catalogo-do-leilao-em-pdf",
+   "banners/91587.jpg"
+  ],
+  [
+   "2026-10-29",
+   "20:00",
+   "Leilão Premiere - Haras WS & XJGC",
+   "Equinos",
+   "XJGC Quarto de Milha Caruaru - PE",
+   "91714-leilao-premiere-haras-ws-xjgc",
    "",
-   ""
+   "banners/91714.jpg"
   ],
   [
    "2026-10-30",
    "20:00",
    "Leilão Raízes",
    "Nelore",
-   "Goiânia - GO",
+   "Leilão Raízes Nelore PO Goiânia - GO",
    "91455-leilao-raizes",
    "",
-   ""
+   "banners/91455.jpg"
   ],
   [
    "2026-10-31",
    "09:00",
-   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca",
+   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca.",
    "Nelore",
-   "Londrina - PR",
+   "Fazenda Ressaca. Nelore PO Londrina - PR",
    "91463-leilao-virtual-2000-femeas-fazenda-ressaca",
    "",
-   ""
+   "banners/91463.jpg"
+  ],
+  [
+   "2026-10-31",
+   "12:00",
+   "Leilão Raízes.",
+   "Nelore",
+   "Leilão Raízes. Nelore PO Goiânia - GO",
+   "91460-leilao-raizes",
+   "",
+   "banners/91460.jpg"
   ],
   [
    "2026-10-31",
    "14:00",
    "5º Leilão Fêmeas Holandesas",
    "Leite",
-   "Londrina - PR",
+   "Leilão Fêmeas Holandesas Holandês Londrina - PR",
    "91586-5-leilao-femeas-holandesas",
    "",
-   ""
+   "banners/91586.jpg"
+  ],
+  [
+   "2026-10-31",
+   "14:00",
+   "9º Leilão Elite Fazenda Belo Horizonte",
+   "Leite",
+   "Fazenda Belo Horizonte Girolando Londrina - PR",
+   "91592-9-leilao-elite-fazenda-belo-horizonte",
+   "",
+   "banners/91592.jpg"
   ],
   [
    "2026-11-01",
    "09:00",
    "19º Leilão Virtual Nelore Kito",
    "Nelore",
-   "Campo Grande - MS",
+   "Kito Nelore PO Campo Grande - MS",
    "91589-19-leilao-virtual-nelore-kito",
+   "25310-catalogo-do-leilao-em-pdf",
+   "banners/91589.jpg"
+  ],
+  [
+   "2026-11-01",
+   "09:00",
+   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca",
+   "Nelore",
+   "Fazenda Ressaca Nelore PO Londrina - PR",
+   "91613-leilao-virtual-2000-femeas-fazenda-ressaca",
    "",
-   ""
+   "banners/91613.jpg"
+  ],
+  [
+   "2026-11-01",
+   "09:00",
+   "Liquidação Girolando PGC",
+   "Leite",
+   "Liquidação Girolando PGC Girolando Londrina - PR",
+   "91612-liquidacao-girolando-pgc",
+   "",
+   "banners/91612.jpg"
+  ],
+  [
+   "2026-11-01",
+   "12:00",
+   "Leilão Touros Nelore Mafra Anapu",
+   "Nelore",
+   "Mafra Anapu Nelore PO Anapu - PA",
+   "91594-leilao-touros-nelore-mafra-anapu",
+   "",
+   "banners/91594.jpg"
+  ],
+  [
+   "2026-11-01",
+   "13:00",
+   "2° Leilão Duo Shot",
+   "Equinos",
+   "Shot Quarto de Milha Avaré - SP",
+   "91699-2-leilao-duo-shot",
+   "",
+   "banners/91699.jpg"
+  ],
+  [
+   "2026-11-01",
+   "13:00",
+   "3° Leilão Haras JF - Francisco Jose Junqueira Franco",
+   "Equinos",
+   "Franco Quarto de Milha Londrina - PR",
+   "91678-3-leilao-haras-jf-francisco-jose-junqueira-franco",
+   "",
+   "banners/91678.jpg"
+  ],
+  [
+   "2026-11-01",
+   "13:00",
+   "3° Leilão Parceiros do Sindicato Rural - Barra dos Garças",
+   "Gado de Corte",
+   "Garças Gado de Corte Cuiabá - MT",
+   "91746-3-leilao-parceiros-do-sindicato-rural-barra-dos-garcas",
+   "",
+   "banners/91746.jpg"
+  ],
+  [
+   "2026-11-02",
+   "12:00",
+   "Leilão Elite Supreme Paranã.",
+   "Nelore",
+   "Supreme Paranã. Nelore PO Londrina - PR",
+   "91716-leilao-elite-supreme-parana",
+   "",
+   "banners/91716.jpg"
+  ],
+  [
+   "2026-11-02",
+   "12:00",
+   "Leilão Virtual Excellence Nelore do Sozinho",
+   "Nelore",
+   "do Sozinho Nelore PO Londrina - PR",
+   "91615-leilao-virtual-excellence-nelore-do-sozinho",
+   "",
+   "banners/91615.jpg"
+  ],
+  [
+   "2026-11-02",
+   "19:00",
+   "Leilão Texas Longhorn - Clã dos Gigantes",
+   "Outros",
+   "Clã dos Gigantes Longhorn Londrina - PR",
+   "91700-leilao-texas-longhorn-cla-dos-gigantes",
+   "",
+   "banners/91700.jpg"
+  ],
+  [
+   "2026-11-02",
+   "20:00",
+   "Leilão de Embriões Fazenda Cachoeirão",
+   "Nelore",
+   "Cachoeirão Nelore PO Campo Grande - MS",
+   "91616-leilao-de-embrioes-fazenda-cachoeirao",
+   "",
+   "banners/91616.jpg"
+  ],
+  [
+   "2026-11-03",
+   "19:00",
+   "Leilão Virtual Nelore VRC Touros",
+   "Nelore",
+   "VRC Touros Nelore PO Londrina - PR",
+   "91618-leilao-virtual-nelore-vrc-touros",
+   "25388-catalogo-do-leilao-em-pdf",
+   "banners/91618.jpg"
+  ],
+  [
+   "2026-11-03",
+   "19:30",
+   "5º Mega Remate Máquinas e Implementos - 1ª Etapa",
+   "Maquinários",
+   "1ª Etapa OUTROS Londrina - PR",
+   "91782-5-mega-remate-maquinas-e-implementos-1-etapa",
+   "",
+   "banners/91782.jpg"
+  ],
+  [
+   "2026-11-03",
+   "20:00",
+   "3° Leilão Select Show",
+   "Equinos",
+   "Show Quarto de Milha Londrina - PR",
+   "91702-3-leilao-select-show",
+   "",
+   "banners/91702.jpg"
+  ],
+  [
+   "2026-11-03",
+   "20:00",
+   "3° Leilão Virtual Gir Leiteiro Fiore",
+   "Leite",
+   "Fiore Gir Londrina - PR",
+   "91617-3-leilao-virtual-gir-leiteiro-fiore",
+   "",
+   "banners/91617.jpg"
+  ],
+  [
+   "2026-11-03",
+   "20:00",
+   "Leilão Fazenda Toscana",
+   "Nelore",
+   "Toscana Nelore PO Boa Vista - RR",
+   "91486-leilao-fazenda-toscana",
+   "",
+   "banners/91486.jpg"
+  ],
+  [
+   "2026-11-04",
+   "19:00",
+   "Leilão Embriões Alta",
+   "Nelore",
+   "Embriões Alta Nelore PO Londrina - PR",
+   "91752-leilao-embrioes-alta",
+   "",
+   "banners/91752.jpg"
+  ],
+  [
+   "2026-11-04",
+   "19:30",
+   "5° Mega Remate Máquinas e Implementos - 2ª Etapa",
+   "Maquinários",
+   "2ª Etapa OUTROS Londrina - PR",
+   "91783-5-mega-remate-maquinas-e-implementos-2-etapa",
+   "",
+   "banners/91783.jpg"
+  ],
+  [
+   "2026-11-04",
+   "19:30",
+   "Leilão JC Ranch - Edição Muares de Patrão e Trabalho",
+   "Equinos",
+   "Patrão e Trabalho Muares Londrina - PR",
+   "91704-leilao-jc-ranch-edicao-muares-de-patrao-e-trabalho",
+   "",
+   "banners/91704.jpg"
+  ],
+  [
+   "2026-11-04",
+   "20:00",
+   "Leilão Joias do Chicão",
+   "Nelore",
+   "Chicão Nelore PO Boa Vista - RR",
+   "91488-leilao-joias-do-chicao",
+   "",
+   "banners/91488.jpg"
+  ],
+  [
+   "2026-11-05",
+   "13:00",
+   "1° Leilão Cabanha Molinari",
+   "Equinos",
+   "Cabanha Molinari Crioulo Boa Vista - RR",
+   "91754-1-leilao-cabanha-molinari",
+   "",
+   "banners/91754.jpg"
+  ],
+  [
+   "2026-11-05",
+   "19:00",
+   "Leilão Virtual Medalhas Nelore HeJ",
+   "Nelore",
+   "HeJ Nelore PO Palmas - TO",
+   "91619-leilao-virtual-medalhas-nelore-hej",
+   "",
+   "banners/91619.jpg"
+  ],
+  [
+   "2026-11-05",
+   "20:00",
+   "1º Leilão Nelore Tepequém e Convidados",
+   "Nelore",
+   "Convidados Nelore PO Boa Vista - RR",
+   "91622-1-leilao-nelore-tepequem-e-convidados",
+   "",
+   "banners/91622.jpg"
+  ],
+  [
+   "2026-11-05",
+   "20:00",
+   "Leilão Fazenda Reunudas Santa Maria & CNBJ",
+   "Nelore",
+   "& CNBJ Nelore PO Londrina - PR",
+   "91623-leilao-fazenda-reunudas-santa-maria-cnbj",
+   "",
+   "banners/91623.jpg"
+  ],
+  [
+   "2026-11-06",
+   "19:00",
+   "4° Leilão Fazenda Laguna",
+   "Nelore",
+   "Laguna Nelore PO Boa Vista - RR",
+   "91753-4-leilao-fazenda-laguna",
+   "",
+   "banners/91753.jpg"
+  ],
+  [
+   "2026-11-06",
+   "19:30",
+   "2° Leilão Virtual Jumasa e Convidados - Live",
+   "Outros",
+   "Live Londrina - PR",
+   "91757-2-leilao-virtual-jumasa-e-convidados-live",
+   "",
+   "banners/91757.jpg"
+  ],
+  [
+   "2026-11-06",
+   "20:00",
+   "Cpex RG",
+   "Nelore",
+   "Cpex RG Nelore PO Londrina - PR",
+   "91621-cpex-rg",
+   "",
+   "banners/91621.jpg"
+  ],
+  [
+   "2026-11-06",
+   "20:00",
+   "Leilão Praia do Forte",
+   "Nelore",
+   "do Forte Nelore PO Salvador - BA",
+   "91620-leilao-praia-do-forte",
+   "",
+   "banners/91620.jpg"
+  ],
+  [
+   "2026-11-07",
+   "12:00",
+   "Leilão Nelore Rima",
+   "Nelore",
+   "PO Entre Rios de Minas - MG",
+   "91717-leilao-nelore-rima",
+   "",
+   "banners/91717.jpg"
+  ],
+  [
+   "2026-11-07",
+   "12:00",
+   "Leilão de Touros Peso Pesado RG",
+   "Nelore",
+   "Pesado RG Nelore PO Londrina - PR",
+   "91161-leilao-de-touros-peso-pesado-rg",
+   "",
+   "banners/91161.jpg"
+  ],
+  [
+   "2026-11-07",
+   "13:00",
+   "2° Leilão Virtual Jumasa e Convidados - 1ª Etapa",
+   "Maquinários",
+   "1ª Etapa OUTROS Londrina - PR",
+   "91756-2-leilao-virtual-jumasa-e-convidados-1-etapa",
+   "",
+   "banners/91756.jpg"
+  ],
+  [
+   "2026-11-07",
+   "13:00",
+   "4º Leilão Tabapuã da Amazônia",
+   "Outros",
+   "da Amazônia Tabapuã Boa Vista - RR",
+   "91492-4-leilao-tabapua-da-amazonia",
+   "",
+   "banners/91492.jpg"
+  ],
+  [
+   "2026-11-07",
+   "13:00",
+   "Leilão Liquidação Fazenda São João - Grupo Camargo",
+   "Nelore",
+   "Grupo Camargo Nelore PO Londrina - PR",
+   "91451-leilao-liquidacao-fazenda-sao-joao-grupo-camargo",
+   "",
+   "banners/91451.jpg"
+  ],
+  [
+   "2026-11-07",
+   "13:00",
+   "Matrizese Touros Colonial",
+   "Nelore",
+   "Touros Colonial Nelore PO Guanambi - BA",
+   "91772-matrizese-touros-colonial",
+   "",
+   "banners/91772.jpg"
+  ],
+  [
+   "2026-11-07",
+   "14:00",
+   "Leilão Girolando Santa Luzia - Vacas em Lactação",
+   "Leite",
+   "Vacas em Lactação Girolando Londrina - PR",
+   "91779-leilao-girolando-santa-luzia-vacas-em-lactacao",
+   "",
+   "banners/91779.jpg"
+  ],
+  [
+   "2026-11-07",
+   "19:00",
+   "3º Leilão Quarto de Milha Texas Center & RHF Ranch",
+   "Equinos",
+   "Ranch Quarto de Milha Goiânia - GO",
+   "91739-3-leilao-quarto-de-milha-texas-center-rhf-ranch",
+   "",
+   "banners/91739.jpg"
+  ],
+  [
+   "2026-11-08",
+   "09:00",
+   "2° Leilão Virtual Jumasa e Convidados - 2ª Etapa",
+   "Maquinários",
+   "2ª Etapa OUTROS Londrina - PR",
+   "91758-2-leilao-virtual-jumasa-e-convidados-2-etapa",
+   "",
+   "banners/91758.jpg"
+  ],
+  [
+   "2026-11-08",
+   "09:00",
+   "Leilão Girolando Santa Luzia - Novilhas Prenhes de Embrião",
+   "Leite",
+   "Prenhes de Embrião Girolando Londrina - PR",
+   "91720-leilao-girolando-santa-luzia-novilhas-prenhes-de-embriao",
+   "",
+   "banners/91720.jpg"
+  ],
+  [
+   "2026-11-08",
+   "09:00",
+   "Leilão de Fêmeas RG Top Class",
+   "Nelore",
+   "Top Class Nelore PO Londrina - PR",
+   "91145-leilao-de-femeas-rg-top-class",
+   "",
+   "banners/91145.jpg"
+  ],
+  [
+   "2026-11-08",
+   "09:00",
+   "Touros JMP",
+   "Nelore",
+   "Touros JMP Nelore PO Londrina - PR",
+   "91609-touros-jmp",
+   "",
+   "banners/91609.jpg"
+  ],
+  [
+   "2026-11-08",
+   "10:00",
+   "3º Leilão Grife do Pintado",
+   "Nelore",
+   "Pintado Nelore Pintado PO Londrina - PR",
+   "91607-3-leilao-grife-do-pintado",
+   "",
+   "banners/91607.jpg"
+  ],
+  [
+   "2026-11-08",
+   "12:00",
+   "1º Leilão A Rota do Leite Girolando",
+   "Leite",
+   "Serra do Ramalho - BA",
+   "91484-1-leilao-a-rota-do-leite-girolando",
+   "",
+   "banners/91484.jpg"
+  ],
+  [
+   "2026-11-08",
+   "12:00",
+   "2° Leilão Expogenetica",
+   "Equinos",
+   "Expogenetica Quarto de Milha Londrina - PR",
+   "91708-2-leilao-expogenetica",
+   "",
+   "banners/91708.jpg"
+  ],
+  [
+   "2026-11-08",
+   "12:00",
+   "Leilão Presencial Nelore Água Fria Pacajá",
+   "Nelore",
+   "Fria Pacajá Nelore PO Pacajá - PA",
+   "91624-leilao-presencial-nelore-agua-fria-pacaja",
+   "",
+   "banners/91624.jpg"
+  ],
+  [
+   "2026-11-08",
+   "13:00",
+   "Shopping Elite Sabiá",
+   "Nelore",
+   "Elite Sabiá Nelore PO Capitólio - MG",
+   "91626-shopping-elite-sabia",
+   "",
+   "banners/91626.jpg"
+  ],
+  [
+   "2026-11-08",
+   "14:00",
+   "Leilão Virtual Fazenda Elídio Lima & Convidados",
+   "Gado de Corte",
+   "Convidados Gado de Corte Cuiabá - MT",
+   "91625-leilao-virtual-fazenda-elidio-lima-convidados",
+   "",
+   "banners/91625.jpg"
+  ],
+  [
+   "2026-11-08",
+   "16:00",
+   "Leilão Guarita Origens Matrizes",
+   "Outros",
+   "Guarita Origens Matrizes Brangus Londrina - PR",
+   "91743-leilao-guarita-origens-matrizes",
+   "",
+   "banners/91743.jpg"
+  ],
+  [
+   "2026-11-09",
+   "19:00",
+   "Leilão Força Genética & Convidado Nelore Paulo",
+   "Nelore",
+   "Paulo Nelore PO Londrina - PR",
+   "91627-leilao-forca-genetica-convidado-nelore-paulo",
+   "",
+   "banners/91627.jpg"
+  ],
+  [
+   "2026-11-09",
+   "19:00",
+   "Leilão São Rafael",
+   "Outros",
+   "19:00 Leilão São Rafael Londrina - PR",
+   "91628-leilao-sao-rafael",
+   "",
+   "banners/91628.jpg"
+  ],
+  [
+   "2026-11-09",
+   "19:30",
+   "2° Leilão Virtual Jumasa e Convidados - 3ª Etapa",
+   "Maquinários",
+   "3ª Etapa OUTROS Londrina - PR",
+   "91755-2-leilao-virtual-jumasa-e-convidados-3-etapa",
+   "",
+   "banners/91755.jpg"
+  ],
+  [
+   "2026-11-09",
+   "19:30",
+   "Leilão HC Selection",
+   "Equinos",
+   "Selection Quarto de Milha Londrina - PR",
+   "91703-leilao-hc-selection",
+   "",
+   "banners/91703.jpg"
+  ],
+  [
+   "2026-11-09",
+   "20:00",
+   "80º Leilão Virtual Nelore Lemgruber Fêmeas Jovens",
+   "Nelore",
+   "Fêmeas Jovens Nelore PO Londrina - PR",
+   "91610-80-leilao-virtual-nelore-lemgruber-femeas-jovens",
+   "",
+   "banners/91610.jpg"
+  ],
+  [
+   "2026-11-10",
+   "19:00",
+   "Leilão Nelore Ouro Fino e Lucente",
+   "Nelore",
+   "e Lucente Nelore PO Londrina - PR",
+   "91597-leilao-nelore-ouro-fino-e-lucente",
+   "",
+   "banners/91597.jpg"
+  ],
+  [
+   "2026-11-10",
+   "19:00",
+   "Nelore MK",
+   "Nelore",
+   "MK Nelore PO Londrina - PR",
+   "91595-nelore-mk",
+   "",
+   "banners/91595.jpg"
+  ],
+  [
+   "2026-11-10",
+   "19:30",
+   "2° Leilão Cavalos da Fazenda",
+   "Equinos",
+   "Fazenda Quarto de Milha Londrina - PR",
+   "91701-2-leilao-cavalos-da-fazenda",
+   "",
+   "banners/91701.jpg"
+  ],
+  [
+   "2026-11-10",
+   "19:30",
+   "2° Leilão Virtual Jumasa e Convidados - 4ª Etapa",
+   "Maquinários",
+   "4ª Etapa OUTROS Londrina - PR",
+   "91759-2-leilao-virtual-jumasa-e-convidados-4-etapa",
+   "",
+   "banners/91759.jpg"
+  ],
+  [
+   "2026-11-10",
+   "20:00",
+   "Leilão Gir Calciolândia",
+   "Leite",
+   "Leilão Gir Calciolândia Gir Londrina - PR",
+   "91629-leilao-gir-calciolandia",
+   "",
+   "banners/91629.jpg"
+  ],
+  [
+   "2026-11-11",
+   "19:00",
+   "Leilão Nelore Shangrila",
+   "Nelore",
+   "Shangrila Nelore PO Londrina - PR",
+   "91721-leilao-nelore-shangrila",
+   "",
+   "banners/91721.jpg"
+  ],
+  [
+   "2026-11-11",
+   "19:30",
+   "2° Leilão Virtual Jumasa e Convidados - 5ª Etapa",
+   "Maquinários",
+   "5ª Etapa OUTROS Londrina - PR",
+   "91760-2-leilao-virtual-jumasa-e-convidados-5-etapa",
+   "",
+   "banners/91760.jpg"
+  ],
+  [
+   "2026-11-11",
+   "19:30",
+   "Leilão Virtual Renata Ricci e Amigos",
+   "Equinos",
+   "Amigos Quarto de Milha Londrina - PR",
+   "91741-leilao-virtual-renata-ricci-e-amigos",
+   "",
+   "banners/91741.jpg"
+  ],
+  [
+   "2026-11-11",
+   "20:00",
+   "Brangus Tarlim",
+   "Outros",
+   "20:00 Brangus Tarlim Brangus Londrina - PR",
+   "91596-brangus-tarlim",
+   "",
+   "banners/91596.jpg"
+  ],
+  [
+   "2026-11-11",
+   "20:00",
+   "II Leilão Virtual Cavalo Crioulo Meus Amigos",
+   "Equinos",
+   "Meus Amigos Crioulo Porto Alegre - RS",
+   "91777-ii-leilao-virtual-cavalo-crioulo-meus-amigos",
+   "",
+   "banners/91777.jpg"
+  ],
+  [
+   "2026-11-12",
+   "19:00",
+   "6º Leilão de Touros Expedito & Naviraí",
+   "Nelore",
+   "& Naviraí Nelore PO Londrina - PR",
+   "91599-6-leilao-de-touros-expedito-navirai",
+   "",
+   "banners/91599.jpg"
+  ],
+  [
+   "2026-11-12",
+   "19:00",
+   "Leilão Produção Reconquista",
+   "Outros",
+   "Porto Alegre - RS",
+   "91744-leilao-producao-reconquista",
+   "",
+   "banners/91744.jpg"
+  ],
+  [
+   "2026-11-12",
+   "19:30",
+   "2° Leilão Virtual Jumasa e Convidados - 6ª Etapa",
+   "Maquinários",
+   "6ª Etapa OUTROS Londrina - PR",
+   "91761-2-leilao-virtual-jumasa-e-convidados-6-etapa",
+   "",
+   "banners/91761.jpg"
+  ],
+  [
+   "2026-11-12",
+   "19:30",
+   "Leilão PH QM de A a Z",
+   "Equinos",
+   "Z Quarto de Milha Londrina - PR",
+   "91706-leilao-ph-qm-de-a-a-z",
+   "",
+   "banners/91706.jpg"
+  ],
+  [
+   "2026-11-12",
+   "20:00",
+   "Leilão Fêmeas Sisan Edição Virtual",
+   "Nelore",
+   "Edição Virtual Nelore PO Londrina - PR",
+   "91598-leilao-femeas-sisan-edicao-virtual",
+   "",
+   "banners/91598.jpg"
+  ],
+  [
+   "2026-11-14",
+   "12:00",
+   "Leilão Touros Nelore Mafra - Redenção PA",
+   "Nelore",
+   "Redenção PA Nelore PO Redenção - PA",
+   "91529-leilao-touros-nelore-mafra-redencao-pa",
+   "",
+   "banners/91529.jpg"
+  ],
+  [
+   "2026-11-14",
+   "12:00",
+   "Pintado Velha Senhora e Gap",
+   "Nelore",
+   "e Gap Nelore Pintado Londrina - PR",
+   "91642-pintado-velha-senhora-e-gap",
+   "",
+   "banners/91642.jpg"
+  ],
+  [
+   "2026-11-14",
+   "12:00",
+   "Spring Day HRO Canaã e RFA",
+   "Nelore",
+   "e RFA Nelore PO Londrina - PR",
+   "91640-spring-day-hro-canaa-e-rfa",
+   "",
+   "banners/91640.jpg"
+  ],
+  [
+   "2026-11-14",
+   "13:00",
+   "2° Leilão Virtual Jumasa e Convidados - 7ª Etapa",
+   "Maquinários",
+   "7ª Etapa OUTROS Londrina - PR",
+   "91762-2-leilao-virtual-jumasa-e-convidados-7-etapa",
+   "",
+   "banners/91762.jpg"
+  ],
+  [
+   "2026-11-14",
+   "13:00",
+   "Leilão Gir Materagro",
+   "Leite",
+   "Leilão Gir Materagro Gir Londrina - PR",
+   "91602-leilao-gir-materagro",
+   "",
+   "banners/91602.jpg"
+  ],
+  [
+   "2026-11-14",
+   "13:00",
+   "Mega Liquidação Girolando",
+   "Leite",
+   "Mega Liquidação Girolando Girolando Londrina - PR",
+   "91641-mega-liquidacao-girolando",
+   "",
+   "banners/91641.jpg"
+  ],
+  [
+   "2026-11-14",
+   "13:00",
+   "Nelore São Miguel",
+   "Nelore",
+   "São Miguel Nelore PO Catu - BA",
+   "91722-nelore-sao-miguel",
+   "",
+   "banners/91722.jpg"
+  ],
+  [
+   "2026-11-14",
+   "14:00",
+   "11º Leilão Virtual Top Leite",
+   "Leite",
+   "sábado 14 NOV Horário 14:00 11º Leilão Virtual Top Leite Girolando",
+   "91643-11-leilao-virtual-top-leite",
+   "",
+   "banners/91643.jpg"
+  ],
+  [
+   "2026-11-15",
+   "09:00",
+   "2° Leilão Virtual Jumasa e Convidados - 8ª Etapa",
+   "Maquinários",
+   "8ª Etapa OUTROS Londrina - PR",
+   "91763-2-leilao-virtual-jumasa-e-convidados-8-etapa",
+   "",
+   "banners/91763.jpg"
+  ],
+  [
+   "2026-11-15",
+   "09:00",
+   "Leilão Garrotes Tulipa",
+   "Nelore",
+   "Garrotes Tulipa Nelore PO Londrina - PR",
+   "91723-leilao-garrotes-tulipa",
+   "",
+   "banners/91723.jpg"
+  ],
+  [
+   "2026-11-15",
+   "09:00",
+   "Leilão Super Safra Santa Cruz",
+   "Nelore",
+   "Santa Cruz Nelore PO Londrina - PR",
+   "91633-leilao-super-safra-santa-cruz",
+   "",
+   "banners/91633.jpg"
+  ],
+  [
+   "2026-11-15",
+   "09:00",
+   "Liquidação Girolando",
+   "Leite",
+   "09:00 Liquidação Girolando Girolando Londrina - PR",
+   "91724-liquidacao-girolando",
+   "",
+   "banners/91724.jpg"
+  ],
+  [
+   "2026-11-15",
+   "10:00",
+   "3º Leilão Nelore JESB & Convidados",
+   "Nelore",
+   "& Convidados Nelore PO Acajutiba - BA",
+   "91645-3-leilao-nelore-jesb-convidados",
+   "",
+   "banners/91645.jpg"
+  ],
+  [
+   "2026-11-15",
+   "12:00",
+   "3° Leilão All Black",
+   "Equinos",
+   "Black Quarto de Milha Londrina - PR",
+   "91682-3-leilao-all-black",
+   "",
+   "banners/91682.jpg"
+  ],
+  [
+   "2026-11-15",
+   "13:00",
+   "Nelore Eldorado",
+   "Nelore",
+   "Eldorado Nelore PO Pontalinda - SP",
+   "91644-nelore-eldorado",
+   "",
+   "banners/91644.jpg"
+  ],
+  [
+   "2026-11-15",
+   "14:00",
+   "168° Programa de Domingo - Programa e Soma Leilões",
+   "Gado de Corte",
+   "Leilões Gado de Corte Cuiabá - MT",
+   "91780-168-programa-de-domingo-programa-e-soma-leiloes",
+   "",
+   "banners/91780.jpg"
+  ],
+  [
+   "2026-11-16",
+   "19:00",
+   "Cpex Excelência Nelore",
+   "Nelore",
+   "Excelência Nelore Nelore PO Londrina - PR",
+   "91648-cpex-excelencia-nelore",
+   "",
+   "banners/91648.jpg"
+  ],
+  [
+   "2026-11-16",
+   "19:30",
+   "1° Leilão Virtual Mega Assessoria e Amigos",
+   "Equinos",
+   "Amigos Quarto de Milha Londrina - PR",
+   "91745-1-leilao-virtual-mega-assessoria-e-amigos",
+   "",
+   "banners/91745.jpg"
+  ],
+  [
+   "2026-11-16",
+   "20:00",
+   "Leilão Senepol 3M - Touros e Fêmeas",
+   "Outros",
+   "Touros e Fêmeas Senepol Londrina - PR",
+   "91646-leilao-senepol-3m-touros-e-femeas",
+   "",
+   "banners/91646.jpg"
+  ],
+  [
+   "2026-11-17",
+   "19:00",
+   "1° Leilão Virtual WTR e Padovan",
+   "Equinos",
+   "Padovan Quarto de Milha Londrina - PR",
+   "91683-1-leilao-virtual-wtr-e-padovan",
+   "",
+   "banners/91683.jpg"
+  ],
+  [
+   "2026-11-17",
+   "19:00",
+   "Leilão Virtual Touros Melhoradores Grupo Mônica",
+   "Nelore",
+   "Grupo Mônica Nelore PO Londrina - PR",
+   "91726-leilao-virtual-touros-melhoradores-grupo-monica",
+   "",
+   "banners/91726.jpg"
+  ],
+  [
+   "2026-11-17",
+   "20:00",
+   "Gir do Pilar",
+   "Leite",
+   "do Pilar Gir Londrina - PR",
+   "91652-gir-do-pilar",
+   "",
+   "banners/91652.jpg"
+  ],
+  [
+   "2026-11-17",
+   "20:00",
+   "Leilão Matrizes CNBJ",
+   "Nelore",
+   "Matrizes CNBJ Nelore PO Londrina - PR",
+   "91774-leilao-matrizes-cnbj",
+   "",
+   "banners/91774.jpg"
+  ],
+  [
+   "2026-11-17",
+   "20:00",
+   "Sindi Tomazi",
+   "Outros",
+   "20:00 Sindi Tomazi Sindi Londrina - PR",
+   "91650-sindi-tomazi",
+   "",
+   "banners/91650.jpg"
+  ],
+  [
+   "2026-11-18",
+   "19:00",
+   "2° Leilão Estância Mime",
+   "Equinos",
+   "Mime Quarto de Milha Londrina - PR",
+   "91684-2-leilao-estancia-mime",
+   "",
+   "banners/91684.jpg"
+  ],
+  [
+   "2026-11-18",
+   "19:00",
+   "Nelore CNBJ -Touros",
+   "Nelore",
+   "Touros Nelore PO Londrina - PR",
+   "91654-nelore-cnbj-touros",
+   "",
+   "banners/91654.jpg"
+  ],
+  [
+   "2026-11-18",
+   "20:00",
+   "Matrizes Caraíbas",
+   "Nelore",
+   "Matrizes Caraíbas Nelore PO Londrina - PR",
+   "91651-matrizes-caraibas",
+   "",
+   "banners/91651.jpg"
+  ],
+  [
+   "2026-11-19",
+   "19:00",
+   "1° Leilão Legends of Ranch",
+   "Equinos",
+   "Ranch Quarto de Milha Londrina - PR",
+   "91685-1-leilao-legends-of-ranch",
+   "",
+   "banners/91685.jpg"
+  ],
+  [
+   "2026-11-19",
+   "19:00",
+   "Leilão Cataratas Collection RS & Casa Branca",
+   "Nelore",
+   "Foz do Iguaçu - PR",
+   "91550-leilao-cataratas-collection-rs-casa-branca",
+   "",
+   "banners/91550.jpg"
+  ],
+  [
+   "2026-11-19",
+   "20:00",
+   "Touros Nelore Caraíbas",
+   "Nelore",
+   "Caraíbas Nelore PO Londrina - PR",
+   "91653-touros-nelore-caraibas",
+   "",
+   "banners/91653.jpg"
+  ],
+  [
+   "2026-11-20",
+   "19:00",
+   "3° Leilão Encontro de Muladeiros",
+   "Equinos",
+   "Muladeiros Quarto de Milha Itupeva - SP",
+   "91687-3-leilao-encontro-de-muladeiros",
+   "",
+   "banners/91687.jpg"
+  ],
+  [
+   "2026-11-20",
+   "19:00",
+   "Leilão Agropecuária Fedrigo",
+   "Equinos",
+   "Fedrigo Quarto de Milha Londrina - PR",
+   "91688-leilao-agropecuaria-fedrigo",
+   "",
+   "banners/91688.jpg"
+  ],
+  [
+   "2026-11-20",
+   "20:00",
+   "Leilão Cataratas Collection RS & Casa Branca.",
+   "Nelore",
+   "Foz do Iguaçu - PR",
+   "91551-leilao-cataratas-collection-rs-casa-branca",
+   "",
+   "banners/91551.jpg"
+  ],
+  [
+   "2026-11-20",
+   "20:00",
+   "Leilão Nelore Prata",
+   "Nelore",
+   "Prata Nelore PO Aracaju - SE",
+   "91718-leilao-nelore-prata",
+   "",
+   "banners/91718.jpg"
+  ],
+  [
+   "2026-11-21",
+   "12:00",
+   "Gir Pica Pau",
+   "Leite",
+   "Pica Pau Gir Londrina - PR",
+   "91656-gir-pica-pau",
+   "",
+   "banners/91656.jpg"
+  ],
+  [
+   "2026-11-21",
+   "12:00",
+   "Leilão Cataratas Collection RS & Casa Branca;",
+   "Nelore",
+   "Foz do Iguaçu - PR",
+   "91569-leilao-cataratas-collection-rs-casa-branca",
+   "",
+   "banners/91569.jpg"
+  ],
+  [
+   "2026-11-21",
+   "12:00",
+   "Leilão Matrizes Fazendão",
+   "Nelore",
+   "Matrizes Fazendão Nelore PO Londrina - PR",
+   "91778-leilao-matrizes-fazendao",
+   "",
+   "banners/91778.jpg"
+  ],
+  [
+   "2026-11-21",
+   "13:00",
+   "Leilão AB Weekend - Touros",
+   "Nelore",
+   "Touros Nelore PO Barreiras - BA",
+   "91657-leilao-ab-weekend-touros",
+   "",
+   "banners/91657.jpg"
+  ],
+  [
+   "2026-11-21",
+   "13:00",
+   "Leilão Nelore Pintado Gênesis & Convidados",
+   "Nelore",
+   "& Convidados Nelore Pintado Londrina - PR",
+   "91658-leilao-nelore-pintado-genesis-convidados",
+   "",
+   "banners/91658.jpg"
+  ],
+  [
+   "2026-11-21",
+   "15:00",
+   "31° Leilão Competetion Faz Santa Maria",
+   "Equinos",
+   "Maria Quarto de Milha Londrina - PR",
+   "91747-31-leilao-competetion-faz-santa-maria",
+   "",
+   "banners/91747.jpg"
+  ],
+  [
+   "2026-11-22",
+   "09:00",
+   "Liquidação Girolando Bela Vista",
+   "Leite",
+   "Bela Vista Girolando Londrina - PR",
+   "91729-liquidacao-girolando-bela-vista",
+   "",
+   "banners/91729.jpg"
+  ],
+  [
+   "2026-11-22",
+   "09:00",
+   "Virtua Genética Camparino - Matrizes",
+   "Nelore",
+   "Matrizes Nelore PO Londrina - PR",
+   "91583-virtua-genetica-camparino-matrizes",
+   "",
+   "banners/91583.jpg"
+  ],
+  [
+   "2026-11-22",
+   "09:30",
+   "5º Mega Leilão Geração Ouro Terra Brava",
+   "Nelore",
+   "Terra Brava Nelore PO Londrina - PR",
+   "91728-5-mega-leilao-geracao-ouro-terra-brava",
+   "",
+   "banners/91728.jpg"
+  ],
+  [
+   "2026-11-22",
+   "13:00",
+   "2° Leilão MBS Horse Business",
+   "Equinos",
+   "Business Quarto de Milha Jaguariúna - SP",
+   "91689-2-leilao-mbs-horse-business",
+   "",
+   "banners/91689.jpg"
+  ],
+  [
+   "2026-11-22",
+   "13:00",
+   "Leilão AB Weekend - Matrizes",
+   "Nelore",
+   "Matrizes Nelore PO Barreiras - BA",
+   "91659-leilao-ab-weekend-matrizes",
+   "",
+   "banners/91659.jpg"
+  ],
+  [
+   "2026-11-22",
+   "13:00",
+   "Miguel Faita - Corte",
+   "Gado de Corte",
+   "Corte Gado de Corte Cuiabá - MT",
+   "91725-miguel-faita-corte",
+   "",
+   "banners/91725.jpg"
+  ],
+  [
+   "2026-11-22",
+   "14:00",
+   "Liq Girolando",
+   "Leite",
+   "14:00 Liq Girolando Girolando Londrina - PR",
+   "91719-liq-girolando",
+   "",
+   "banners/91719.jpg"
   ]
  ]
 }
