@@ -1,0 +1,162 @@
+{
+ "COT": {
+  "boi": [
+   [
+    "b",
+    "BOI",
+    "Boi gordo São Paulo",
+    "R$ 376,00",
+    "/@"
+   ],
+   [
+    "b",
+    "BOI",
+    "Boi gordo Mato Grosso do Sul",
+    "R$ 370,00",
+    "/@"
+   ],
+   [
+    "b",
+    "BOI",
+    "Boi gordo Goiás",
+    "R$ 361,00",
+    "/@"
+   ],
+   [
+    "z",
+    "BEZERRO",
+    "Bezerro Cepea · MS",
+    "R$ 3.501,39",
+    "/cabeça"
+   ],
+   [
+    "z",
+    "BEZERRO",
+    "Bezerro Goiás",
+    "R$ 18,17",
+    "/kg"
+   ],
+   [
+    "z",
+    "BEZERRO",
+    "Bezerro Mato Grosso",
+    "R$ 17,08",
+    "/kg"
+   ]
+  ],
+  "leite": [
+   [
+    "l",
+    "SUL",
+    "Rio Grande do Sul",
+    "R$ 2,6545",
+    "/litro"
+   ],
+   [
+    "l",
+    "SUL",
+    "Santa Catarina",
+    "R$ 2,7758",
+    "/litro"
+   ],
+   [
+    "l",
+    "SUL",
+    "Paraná",
+    "R$ 2,9235",
+    "/litro"
+   ],
+   [
+    "l",
+    "SUDESTE",
+    "Minas Gerais",
+    "R$ 3,0446",
+    "/litro"
+   ],
+   [
+    "l",
+    "SUDESTE",
+    "São Paulo",
+    "R$ 2,9760",
+    "/litro"
+   ],
+   [
+    "l",
+    "SUDESTE",
+    "Espírito Santo",
+    "R$ 2,8622",
+    "/litro"
+   ],
+   [
+    "l",
+    "NORDESTE",
+    "Bahia",
+    "R$ 2,8707",
+    "/litro"
+   ],
+   [
+    "l",
+    "CENTRO-OESTE",
+    "Goiás",
+    "R$ 2,9692",
+    "/litro"
+   ],
+   [
+    "l",
+    "BRASIL",
+    "Média Brasil",
+    "R$ 2,8869",
+    "/litro"
+   ]
+  ],
+  "eq": [
+   [
+    "e",
+    "♂ MANGALARGA",
+    "Esteio de Três Corações",
+    "R$ 102 mi",
+    "avaliação"
+   ],
+   [
+    "e",
+    "♀ MANGALARGA",
+    "Sinira Quelé Formoso 2S",
+    "R$ 13,2 mi",
+    "recorde da raça"
+   ],
+   [
+    "e",
+    "♂ QUARTO DE MILHA",
+    "Gênesis 66",
+    "R$ 80 mi",
+    "50% vendido"
+   ],
+   [
+    "e",
+    "♀ QUARTO DE MILHA",
+    "Dinastia Apollo Roxo",
+    "R$ 12 mi",
+    "valor total"
+   ],
+   [
+    "e",
+    "♂ CRIOULO",
+    "Jacinto Cala Bassa TE",
+    "R$ 22 mi",
+    "recorde da raça"
+   ],
+   [
+    "e",
+    "♀ CRIOULO",
+    "GAP Quebra Luz",
+    "R$ 2,7 mi",
+    "recorde de fêmea"
+   ]
+  ]
+ },
+ "SRC": {
+  "boi": "Cotações à vista · Pecuária.com.br (23/10/2026) e Cepea/Notícias Agrícolas (20/10/2026)",
+  "leite": "Leite cru pago ao produtor · Cepea/Esalq, captação de agosto/2026 (divulgado em 01/10/2026)",
+  "eq": "Maiores valores já registrados por raça em leilões · CompreRural, Revista Horse e outras (não é cotação do dia)"
+ }
+}
