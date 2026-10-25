@@ -1,56 +1,6 @@
 {
- "atualizado": "24/10/2026 01:15",
+ "atualizado": "25/10/2026 01:18",
  "L": [
-  [
-   "2026-10-24",
-   "12:00",
-   "2° Leilão Elite Cheiro de Terra - Nelore Joy.",
-   "Nelore",
-   "São José do Rio Preto - SP",
-   "91397-2-leilao-elite-cheiro-de-terra-nelore-joy",
-   "25389-catalogo-do-leilao-em-pdf",
-   "banners/91397.jpg"
-  ],
-  [
-   "2026-10-24",
-   "12:00",
-   "II Leilão JBJ Genetics Weekend.",
-   "Nelore",
-   "Genetics Weekend. Nelore PO Nazário - GO",
-   "91401-ii-leilao-jbj-genetics-weekend",
-   "25396-catalogo-do-leilao-em-pdf",
-   "banners/91401.jpg"
-  ],
-  [
-   "2026-10-24",
-   "12:00",
-   "Leilão Nelore Pintado Retratos da Raça",
-   "Nelore",
-   "da Raça Nelore PO Londrina - PR",
-   "91418-leilao-nelore-pintado-retratos-da-raca",
-   "25390-catalogo-do-leilao-em-pdf",
-   "banners/91418.jpg"
-  ],
-  [
-   "2026-10-24",
-   "14:00",
-   "1º Leilão Angus Real - Realeza",
-   "Outros",
-   "Eutimio Pucci Ceregati Abdon Batista - SC",
-   "91375-1-leilao-angus-real-realeza",
-   "25344-catalogo-do-leilao-em-pdf",
-   "banners/91375.jpg"
-  ],
-  [
-   "2026-10-24",
-   "14:00",
-   "Leilão Gir Leiteiro São José do Can Can",
-   "Leite",
-   "do Can Can Gir Uberaba - MG",
-   "91542-leilao-gir-leiteiro-sao-jose-do-can-can",
-   "25369-catalogo-do-leilao-em-pdf",
-   "banners/91542.jpg"
-  ],
   [
    "2026-10-25",
    "09:00",
@@ -68,7 +18,7 @@
    "Nelore",
    "Genetics Weekend; Nelore PO Nazário - GO",
    "91424-ii-leilao-jbj-genetics-weekend",
-   "25375-catalogo-do-leilao-em-pdf",
+   "25397-catalogo-do-leilao-em-pdf",
    "banners/91424.jpg"
   ],
   [
@@ -1470,6 +1420,56 @@
    "91590-virtual-genetica-camparino-bezerros-prime",
    "",
    "banners/91590.jpg"
+  ],
+  [
+   "2026-11-24",
+   "19:00",
+   "1° Leilão Virtual Good Choice",
+   "Equinos",
+   "Choice Quarto de Milha Londrina - PR",
+   "91691-1-leilao-virtual-good-choice",
+   "",
+   "banners/91691.jpg"
+  ],
+  [
+   "2026-11-24",
+   "19:00",
+   "5º Leilão Virtual Barrel Selection",
+   "Equinos",
+   "Selection Quarto de Milha Londrina - PR",
+   "91690-5-leilao-virtual-barrel-selection",
+   "",
+   "banners/91690.jpg"
+  ],
+  [
+   "2026-11-24",
+   "19:00",
+   "Leilão Virtual Genética Varrela - Reprodutores e Matrizes",
+   "Nelore",
+   "e Matrizes Nelore PO Maceió - AL",
+   "91776-leilao-virtual-genetica-varrela-reprodutores-e-matrizes",
+   "",
+   "banners/91776.jpg"
+  ],
+  [
+   "2026-11-24",
+   "19:00",
+   "Nelore Amor",
+   "Nelore",
+   "Amor Nelore PO Londrina - PR",
+   "91634-nelore-amor",
+   "",
+   "banners/91634.jpg"
+  ],
+  [
+   "2026-11-24",
+   "20:00",
+   "2º Etapa Leilão Virtual Qualidade Corona",
+   "Nelore",
+   "Qualidade Corona Nelore PO Londrina - PR",
+   "91662-2-etapa-leilao-virtual-qualidade-corona",
+   "",
+   "banners/91662.jpg"
   ]
  ]
 }
