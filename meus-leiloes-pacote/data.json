@@ -1,26 +1,6 @@
 {
- "atualizado": "25/10/2026 01:18",
+ "atualizado": "26/10/2026 01:21",
  "L": [
-  [
-   "2026-10-25",
-   "09:00",
-   "Leilão Virtual Excelência Genética SB da Mata",
-   "Nelore",
-   "da Mata Nelore PO Londrina - PR",
-   "91440-leilao-virtual-excelencia-genetica-sb-da-mata",
-   "25383-catalogo-do-leilao-em-pdf",
-   "banners/91440.jpg"
-  ],
-  [
-   "2026-10-25",
-   "10:00",
-   "II Leilão JBJ Genetics Weekend;",
-   "Nelore",
-   "Genetics Weekend; Nelore PO Nazário - GO",
-   "91424-ii-leilao-jbj-genetics-weekend",
-   "25397-catalogo-do-leilao-em-pdf",
-   "banners/91424.jpg"
-  ],
   [
    "2026-10-26",
    "19:00",
@@ -48,7 +28,7 @@
    "Nelore",
    "Pecuaria Maceió - AL",
    "91433-3-leilao-damas-do-campo-nelore-floc",
-   "25386-catalogo-do-leilao-em-pdf",
+   "25400-catalogo-do-leilao-em-pdf",
    "banners/91433.jpg"
   ],
   [
@@ -1470,6 +1450,36 @@
    "91662-2-etapa-leilao-virtual-qualidade-corona",
    "",
    "banners/91662.jpg"
+  ],
+  [
+   "2026-11-25",
+   "19:00",
+   "Leilão Especial Fêmeas Fazenda Modotti",
+   "Nelore",
+   "Fazenda Modotti Nelore PO Londrina - PR",
+   "91731-leilao-especial-femeas-fazenda-modotti",
+   "",
+   "banners/91731.jpg"
+  ],
+  [
+   "2026-11-25",
+   "19:00",
+   "Leilão Rincao da Sinuelo e Convidados",
+   "Equinos",
+   "Convidados Quarto de Milha Londrina - PR",
+   "91766-leilao-rincao-da-sinuelo-e-convidados",
+   "",
+   "banners/91766.jpg"
+  ],
+  [
+   "2026-11-25",
+   "20:00",
+   "Leilão EAO",
+   "Nelore",
+   "Leilão EAO Nelore PO Salvador - BA",
+   "91604-leilao-eao",
+   "",
+   "banners/91604.jpg"
   ]
  ]
 }
