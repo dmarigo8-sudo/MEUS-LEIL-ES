@@ -1,46 +1,6 @@
 {
- "atualizado": "26/10/2026 01:21",
+ "atualizado": "27/10/2026 01:20",
  "L": [
-  [
-   "2026-10-26",
-   "19:00",
-   "1º Leilão Only Girls",
-   "Equinos",
-   "Girls Quarto de Milha Londrina - PR",
-   "91572-1-leilao-only-girls",
-   "",
-   "banners/91572.jpg"
-  ],
-  [
-   "2026-10-26",
-   "19:00",
-   "Leilão Legacy Horse",
-   "Equinos",
-   "Horse Quarto de Milha Londrina - PR",
-   "91570-leilao-legacy-horse",
-   "",
-   "banners/91570.jpg"
-  ],
-  [
-   "2026-10-26",
-   "19:30",
-   "3º Leilão Damas do Campo Nelore Floc",
-   "Nelore",
-   "Pecuaria Maceió - AL",
-   "91433-3-leilao-damas-do-campo-nelore-floc",
-   "25400-catalogo-do-leilao-em-pdf",
-   "banners/91433.jpg"
-  ],
-  [
-   "2026-10-26",
-   "19:30",
-   "Leilão Grupo Nova Sorocabana - Live",
-   "Maquinários",
-   "Live OUTROS Londrina - PR",
-   "91771-leilao-grupo-nova-sorocabana-live",
-   "25376-catalogo-do-leilao-em-pdf",
-   "banners/91771.jpg"
-  ],
   [
    "2026-10-27",
    "19:00",
@@ -78,7 +38,7 @@
    "Leite",
    "Pau Azul Gir Leiteiro Londrina - PR",
    "91444-leilao-gir-leiteiro-pica-pau-azul",
-   "",
+   "25402-catalogo-do-leilao-em-pdf",
    "banners/91444.jpg"
   ],
   [
@@ -86,7 +46,7 @@
    "19:00",
    "4º Leilão Matrizes Santa Fé & Convidados",
    "Nelore",
-   "& Convidados Nelore PO Londrina - PR",
+   "& Convidados Nelore PO Maceió - AL",
    "91538-4-leilao-matrizes-santa-fe-convidados",
    "",
    "banners/91538.jpg"
@@ -244,10 +204,10 @@
   [
    "2026-11-01",
    "09:00",
-   "Liquidação Girolando PGC",
+   "Leilão Virtual Liquidação Fazenda Preguiça",
    "Leite",
-   "Liquidação Girolando PGC Girolando Londrina - PR",
-   "91612-liquidacao-girolando-pgc",
+   "Liquidação Fazenda Preguiça Girolando Londrina - PR",
+   "91612-leilao-virtual-liquidacao-fazenda-preguica",
    "",
    "banners/91612.jpg"
   ],
@@ -704,10 +664,10 @@
   [
    "2026-11-09",
    "19:00",
-   "Leilão São Rafael",
+   "Leilão Sítio São Rafael Gir Leiteiro",
    "Outros",
-   "19:00 Leilão São Rafael Londrina - PR",
-   "91628-leilao-sao-rafael",
+   "São Rafael Gir Leiteiro Londrina - PR",
+   "91628-leilao-sitio-sao-rafael-gir-leiteiro",
    "",
    "banners/91628.jpg"
   ],
@@ -1344,10 +1304,10 @@
   [
    "2026-11-22",
    "13:00",
-   "Miguel Faita - Corte",
+   "Leilão Virtual Fazenda Preciosa Miguel Faita",
    "Gado de Corte",
-   "Corte Gado de Corte Cuiabá - MT",
-   "91725-miguel-faita-corte",
+   "Faita Gado de Corte Cuiabá - MT",
+   "91725-leilao-virtual-fazenda-preciosa-miguel-faita",
    "",
    "banners/91725.jpg"
   ],
@@ -1480,6 +1440,36 @@
    "91604-leilao-eao",
    "",
    "banners/91604.jpg"
+  ],
+  [
+   "2026-11-26",
+   "19:00",
+   "Leilão Dysnaty",
+   "Equinos",
+   "Dysnaty Quarto de Milha Londrina - PR",
+   "91692-leilao-dysnaty",
+   "",
+   "banners/91692.jpg"
+  ],
+  [
+   "2026-11-26",
+   "19:00",
+   "Matrizes Produção e Corte NGJ",
+   "Nelore",
+   "Corte NGJ Nelore PO Londrina - PR",
+   "91732-matrizes-producao-e-corte-ngj",
+   "",
+   "banners/91732.jpg"
+  ],
+  [
+   "2026-11-26",
+   "20:00",
+   "Leilão Nelore EAO",
+   "Nelore",
+   "quinta-feira 26 NOV Horário 20:00 Leilão Nelore EAO Nelore PO",
+   "91605-leilao-nelore-eao",
+   "",
+   "banners/91605.jpg"
   ]
  ]
 }
