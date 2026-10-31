@@ -1,16 +1,6 @@
 {
- "atualizado": "30/10/2026 01:30",
+ "atualizado": "31/10/2026 01:27",
  "L": [
-  [
-   "2026-10-30",
-   "20:00",
-   "Leilão Raízes",
-   "Nelore",
-   "Leilão Raízes Nelore PO Goiânia - GO",
-   "91455-leilao-raizes",
-   "25431-catalogo-do-leilao-em-pdf",
-   "banners/91455.jpg"
-  ],
   [
    "2026-10-31",
    "09:00",
@@ -28,7 +18,7 @@
    "Nelore",
    "Leilão Raízes. Nelore PO Goiânia - GO",
    "91460-leilao-raizes",
-   "25435-catalogo-do-leilao-em-pdf",
+   "25437-catalogo-do-leilao-em-pdf",
    "banners/91460.jpg"
   ],
   [
@@ -64,10 +54,10 @@
   [
    "2026-11-01",
    "09:00",
-   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca",
+   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca - 2ª Etapa",
    "Nelore",
-   "Fazenda Ressaca Nelore PO Londrina - PR",
-   "91613-leilao-virtual-2000-femeas-fazenda-ressaca",
+   "2ª Etapa Nelore PO Londrina - PR",
+   "91613-leilao-virtual-2000-femeas-fazenda-ressaca-2-etapa",
    "25421-catalogo-do-leilao-em-pdf",
    "banners/91613.jpg"
   ],
@@ -78,7 +68,7 @@
    "Leite",
    "Liquidação Fazenda Preguiça Girolando Londrina - PR",
    "91612-leilao-virtual-de-liquidacao-fazenda-preguica",
-   "",
+   "25441-catalogo-do-leilao-em-pdf",
    "banners/91612.jpg"
   ],
   [
@@ -153,16 +143,6 @@
   ],
   [
    "2026-11-03",
-   "19:30",
-   "5º Mega Remate Máquinas e Implementos - 1ª Etapa",
-   "Maquinários",
-   "1ª Etapa OUTROS Londrina - PR",
-   "91782-5-mega-remate-maquinas-e-implementos-1-etapa",
-   "",
-   "banners/91782.jpg"
-  ],
-  [
-   "2026-11-03",
    "20:00",
    "3° Leilão Select Show",
    "Equinos",
@@ -194,12 +174,12 @@
   [
    "2026-11-04",
    "19:30",
-   "5° Mega Remate Máquinas e Implementos - 2ª Etapa",
+   "5º Mega Remate Máquinas e Implementos - 1ª Etapa",
    "Maquinários",
-   "2ª Etapa OUTROS Londrina - PR",
-   "91783-5-mega-remate-maquinas-e-implementos-2-etapa",
+   "1ª Etapa OUTROS Londrina - PR",
+   "91782-5-mega-remate-maquinas-e-implementos-1-etapa",
    "",
-   "banners/91783.jpg"
+   "banners/91782.jpg"
   ],
   [
    "2026-11-04",
@@ -240,6 +220,16 @@
    "91619-leilao-virtual-medalhas-nelore-hej",
    "25428-catalogo-do-leilao-em-pdf",
    "banners/91619.jpg"
+  ],
+  [
+   "2026-11-05",
+   "19:30",
+   "5° Mega Remate Máquinas e Implementos - 2ª Etapa",
+   "Maquinários",
+   "2ª Etapa OUTROS Londrina - PR",
+   "91783-5-mega-remate-maquinas-e-implementos-2-etapa",
+   "",
+   "banners/91783.jpg"
   ],
   [
    "2026-11-05",
@@ -290,16 +280,6 @@
    "91757-2-leilao-virtual-jumasa-e-convidados-live",
    "",
    "banners/91757.jpg"
-  ],
-  [
-   "2026-11-06",
-   "20:00",
-   "Leilão Cpex RG",
-   "Nelore",
-   "Cpex RG Nelore PO Londrina - PR",
-   "91621-leilao-cpex-rg",
-   "",
-   "banners/91621.jpg"
   ],
   [
    "2026-11-06",
@@ -814,10 +794,10 @@
   [
    "2026-11-15",
    "13:00",
-   "Nelore Eldorado",
+   "16º Leilão Genética Fazenda Eldorado",
    "Nelore",
-   "Eldorado Nelore PO Pontalinda - SP",
-   "91644-nelore-eldorado",
+   "Fazenda Eldorado Nelore PO Pontalinda - SP",
+   "91644-16-leilao-genetica-fazenda-eldorado",
    "",
    "banners/91644.jpg"
   ],
@@ -1460,6 +1440,46 @@
    "91625-leilao-virtual-fazenda-elidio-lima-convidados",
    "",
    "banners/91625.jpg"
+  ],
+  [
+   "2026-11-29",
+   "17:00",
+   "Leilão Virtual Cabanha São Caetano",
+   "Outros",
+   "São Caetano Ovinos Porto Alegre - RS",
+   "91827-leilao-virtual-cabanha-sao-caetano",
+   "",
+   "banners/91827.jpg"
+  ],
+  [
+   "2026-11-30",
+   "20:00",
+   "Leilão Matrizes Chicão",
+   "Nelore",
+   "Matrizes Chicão Nelore PO Londrina - PR",
+   "91797-leilao-matrizes-chicao",
+   "",
+   "banners/91797.jpg"
+  ],
+  [
+   "2026-11-30",
+   "20:00",
+   "Matrizes API",
+   "Nelore",
+   "segunda-feira 30 NOV Horário 20:00 Matrizes API Nelore PO",
+   "91677-matrizes-api",
+   "",
+   "banners/91677.jpg"
+  ],
+  [
+   "2026-11-30",
+   "20:00",
+   "Matrizes Paranã",
+   "Nelore",
+   "Paranã Nelore PO São Paulo - SP",
+   "91709-matrizes-parana",
+   "",
+   "banners/91709.jpg"
   ]
  ]
 }
