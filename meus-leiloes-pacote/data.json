@@ -1,46 +1,6 @@
 {
- "atualizado": "31/10/2026 01:27",
+ "atualizado": "01/11/2026 01:34",
  "L": [
-  [
-   "2026-10-31",
-   "09:00",
-   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca - 1ª Etapa",
-   "Nelore",
-   "1ª Etapa Nelore PO Londrina - PR",
-   "91463-leilao-virtual-2000-femeas-fazenda-ressaca-1-etapa",
-   "25420-catalogo-do-leilao-em-pdf",
-   "banners/91463.jpg"
-  ],
-  [
-   "2026-10-31",
-   "12:00",
-   "Leilão Raízes.",
-   "Nelore",
-   "Leilão Raízes. Nelore PO Goiânia - GO",
-   "91460-leilao-raizes",
-   "25437-catalogo-do-leilao-em-pdf",
-   "banners/91460.jpg"
-  ],
-  [
-   "2026-10-31",
-   "14:00",
-   "5º Leilão Fêmeas Holandesas",
-   "Leite",
-   "Leilão Fêmeas Holandesas Holandês Londrina - PR",
-   "91586-5-leilao-femeas-holandesas",
-   "25417-catalogo-do-leilao-em-pdf",
-   "banners/91586.jpg"
-  ],
-  [
-   "2026-10-31",
-   "14:00",
-   "9º Leilão Elite Fazenda Belo Horizonte",
-   "Leite",
-   "Fazenda Belo Horizonte Girolando Londrina - PR",
-   "91592-9-leilao-elite-fazenda-belo-horizonte",
-   "25433-catalogo-do-leilao-em-pdf",
-   "banners/91592.jpg"
-  ],
   [
    "2026-11-01",
    "09:00",
@@ -48,7 +8,7 @@
    "Nelore",
    "Kito Nelore PO Campo Grande - MS",
    "91589-19-leilao-virtual-nelore-kito",
-   "25310-catalogo-do-leilao-em-pdf",
+   "25442-catalogo-do-leilao-em-pdf",
    "banners/91589.jpg"
   ],
   [
@@ -1480,6 +1440,26 @@
    "91709-matrizes-parana",
    "",
    "banners/91709.jpg"
+  ],
+  [
+   "2026-12-01",
+   "20:00",
+   "Matrizes Matinha - Edição Vacas Paridas",
+   "Nelore",
+   "Vacas Paridas Nelore PO Londrina - PR",
+   "91793-matrizes-matinha-edicao-vacas-paridas",
+   "",
+   "banners/91793.jpg"
+  ],
+  [
+   "2026-12-01",
+   "20:00",
+   "Matrizes Paranã",
+   "Nelore",
+   "Paranã Nelore PO São Paulo - SP",
+   "91791-matrizes-parana",
+   "",
+   "banners/91791.jpg"
   ]
  ]
 }
