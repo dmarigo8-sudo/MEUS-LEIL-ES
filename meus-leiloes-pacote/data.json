@@ -1,76 +1,6 @@
 {
- "atualizado": "01/11/2026 01:34",
+ "atualizado": "02/11/2026 01:42",
  "L": [
-  [
-   "2026-11-01",
-   "09:00",
-   "19º Leilão Virtual Nelore Kito",
-   "Nelore",
-   "Kito Nelore PO Campo Grande - MS",
-   "91589-19-leilao-virtual-nelore-kito",
-   "25442-catalogo-do-leilao-em-pdf",
-   "banners/91589.jpg"
-  ],
-  [
-   "2026-11-01",
-   "09:00",
-   "Leilão Virtual 2000 Fêmeas Fazenda Ressaca - 2ª Etapa",
-   "Nelore",
-   "2ª Etapa Nelore PO Londrina - PR",
-   "91613-leilao-virtual-2000-femeas-fazenda-ressaca-2-etapa",
-   "25421-catalogo-do-leilao-em-pdf",
-   "banners/91613.jpg"
-  ],
-  [
-   "2026-11-01",
-   "09:30",
-   "Leilão Virtual de Liquidação Fazenda Preguiça",
-   "Leite",
-   "Liquidação Fazenda Preguiça Girolando Londrina - PR",
-   "91612-leilao-virtual-de-liquidacao-fazenda-preguica",
-   "25441-catalogo-do-leilao-em-pdf",
-   "banners/91612.jpg"
-  ],
-  [
-   "2026-11-01",
-   "12:00",
-   "Leilão Touros Nelore Mafra Anapu",
-   "Nelore",
-   "Mafra Anapu Nelore PO Anapu - PA",
-   "91594-leilao-touros-nelore-mafra-anapu",
-   "25416-catalogo-do-leilao-em-pdf",
-   "banners/91594.jpg"
-  ],
-  [
-   "2026-11-01",
-   "13:00",
-   "2° Duo Shot",
-   "Equinos",
-   "Shot Quarto de Milha Avaré - SP",
-   "91699-2-duo-shot",
-   "",
-   "banners/91699.jpg"
-  ],
-  [
-   "2026-11-01",
-   "13:00",
-   "3° Leilão Parceiros do Sindicato Rural - Barra dos Garças",
-   "Gado de Corte",
-   "Garças Gado de Corte Cuiabá - MT",
-   "91746-3-leilao-parceiros-do-sindicato-rural-barra-dos-garcas",
-   "",
-   "banners/91746.jpg"
-  ],
-  [
-   "2026-11-01",
-   "16:00",
-   "168° Programa de Domingo - Programa e Soma Leilões",
-   "Gado de Corte",
-   "Leilões Gado de Corte Cuiabá - MT",
-   "91806-168-programa-de-domingo-programa-e-soma-leiloes",
-   "",
-   "banners/91806.jpg"
-  ],
   [
    "2026-11-02",
    "12:00",
@@ -78,7 +8,7 @@
    "Nelore",
    "Supreme Paranã Nelore PO Londrina - PR",
    "91716-leilao-elite-supreme-parana",
-   "25425-catalogo-do-leilao-em-pdf",
+   "25443-catalogo-do-leilao-em-pdf",
    "banners/91716.jpg"
   ],
   [
@@ -1460,6 +1390,16 @@
    "91791-matrizes-parana",
    "",
    "banners/91791.jpg"
+  ],
+  [
+   "2026-12-02",
+   "20:00",
+   "Matrizes Paranã.",
+   "Nelore",
+   "Paranã. Nelore PO São Paulo - SP",
+   "91800-matrizes-parana",
+   "",
+   "banners/91800.jpg"
   ]
  ]
 }
