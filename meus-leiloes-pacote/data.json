@@ -1,26 +1,6 @@
 {
- "atualizado": "02/11/2026 01:42",
+ "atualizado": "03/11/2026 01:36",
  "L": [
-  [
-   "2026-11-02",
-   "12:00",
-   "Leilão Elite Supreme Paranã",
-   "Nelore",
-   "Supreme Paranã Nelore PO Londrina - PR",
-   "91716-leilao-elite-supreme-parana",
-   "25443-catalogo-do-leilao-em-pdf",
-   "banners/91716.jpg"
-  ],
-  [
-   "2026-11-02",
-   "20:00",
-   "Leilão de Embriões Fazenda Cachoeirão",
-   "Nelore",
-   "Cachoeirão Nelore PO Campo Grande - MS",
-   "91616-leilao-de-embrioes-fazenda-cachoeirao",
-   "25415-catalogo-do-leilao-em-pdf",
-   "banners/91616.jpg"
-  ],
   [
    "2026-11-03",
    "19:00",
@@ -1400,6 +1380,36 @@
    "91800-matrizes-parana",
    "",
    "banners/91800.jpg"
+  ],
+  [
+   "2026-12-03",
+   "18:00",
+   "Leilão Faria Lima & Amigos",
+   "Nelore",
+   "Amigos Nelore PO São Paulo - SP",
+   "91698-leilao-faria-lima-amigos",
+   "",
+   "banners/91698.jpg"
+  ],
+  [
+   "2026-12-03",
+   "19:00",
+   "Nelore Bank",
+   "Nelore",
+   "Bank Nelore PO Londrina - PR",
+   "91802-nelore-bank",
+   "",
+   "banners/91802.jpg"
+  ],
+  [
+   "2026-12-03",
+   "20:00",
+   "Leeilão Baby Gir Claciolandia",
+   "Leite",
+   "Baby Gir Claciolandia Gir Londrina - PR",
+   "91801-leeilao-baby-gir-claciolandia",
+   "",
+   "banners/91801.jpg"
   ]
  ]
 }
