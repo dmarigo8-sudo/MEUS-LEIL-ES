@@ -1,56 +1,6 @@
 {
- "atualizado": "05/11/2026 01:42",
+ "atualizado": "06/11/2026 01:41",
  "L": [
-  [
-   "2026-11-05",
-   "19:00",
-   "Leilão Virtual Medalhas Nelore HeJ",
-   "Nelore",
-   "HeJ Nelore PO Palmas - TO",
-   "91619-leilao-virtual-medalhas-nelore-hej",
-   "25428-catalogo-do-leilao-em-pdf",
-   "banners/91619.jpg"
-  ],
-  [
-   "2026-11-05",
-   "19:30",
-   "5° Mega Remate Máquinas e Implementos - 2ª Etapa",
-   "Maquinários",
-   "2ª Etapa OUTROS Cuiabá - MT",
-   "91783-5-mega-remate-maquinas-e-implementos-2-etapa",
-   "25474-catalogo-do-leilao-em-pdf",
-   "banners/91783.jpg"
-  ],
-  [
-   "2026-11-05",
-   "19:30",
-   "7° Leilão Núcleo Paulista Quarto de Milha",
-   "Equinos",
-   "Milha Quarto de Milha Londrina - PR",
-   "91784-7-leilao-nucleo-paulista-quarto-de-milha",
-   "",
-   "banners/91784.jpg"
-  ],
-  [
-   "2026-11-05",
-   "19:30",
-   "Leilão Pérolas do Vale - CNBJ & Santa Maria",
-   "Nelore",
-   "Santa Maria Nelore PO Londrina - PR",
-   "91623-leilao-perolas-do-vale-cnbj-santa-maria",
-   "25447-catalogo-do-leilao-em-pdf",
-   "banners/91623.jpg"
-  ],
-  [
-   "2026-11-05",
-   "20:00",
-   "1º Leilão Nelore Tepequém & Convidados",
-   "Nelore",
-   "Convidados Nelore PO Boa Vista - RR",
-   "91622-1-leilao-nelore-tepequem-convidados",
-   "",
-   "banners/91622.jpg"
-  ],
   [
    "2026-11-06",
    "19:00",
@@ -78,7 +28,7 @@
    "Nelore",
    "do Forte Nelore PO Salvador - BA",
    "91620-leilao-praia-do-forte",
-   "",
+   "25482-catalogo-do-leilao-em-pdf",
    "banners/91620.jpg"
   ],
   [
@@ -148,7 +98,7 @@
    "Nelore",
    "Grupo Camargo Nelore PO Londrina - PR",
    "91451-leilao-nelore-po-fazenda-sao-joao-grupo-camargo",
-   "",
+   "25488-catalogo-do-leilao-em-pdf",
    "banners/91451.jpg"
   ],
   [
@@ -188,7 +138,7 @@
    "Nelore",
    "Pintado Nelore Pintado PO Londrina - PR",
    "91607-3-leilao-grife-do-pintado",
-   "",
+   "25486-catalogo-do-leilao-em-pdf",
    "banners/91607.jpg"
   ],
   [
@@ -208,7 +158,7 @@
    "Leite",
    "Serra do Ramalho - BA",
    "91484-1-leilao-a-rota-do-leite-girolando",
-   "",
+   "25483-catalogo-do-leilao-em-pdf",
    "banners/91484.jpg"
   ],
   [
@@ -264,10 +214,10 @@
   [
    "2026-11-09",
    "16:30",
-   "Apresentação Animais EAO",
+   "Apresentação dos Animais EAO - Chave de Ouro",
    "Nelore",
-   "Animais EAO Nelore PO Londrina - PR",
-   "91789-apresentacao-animais-eao",
+   "de Ouro Nelore PO Londrina - PR",
+   "91789-apresentacao-dos-animais-eao-chave-de-ouro",
    "",
    "banners/91789.jpg"
   ],
@@ -278,7 +228,7 @@
    "Nelore",
    "Paulo Nelore PO Londrina - PR",
    "91627-leilao-forca-genetica-convidado-nelore-paulo",
-   "",
+   "25481-catalogo-do-leilao-em-pdf",
    "banners/91627.jpg"
   ],
   [
@@ -458,7 +408,7 @@
    "Nelore",
    "Edição Virtual Nelore PO Londrina - PR",
    "91598-leilao-femeas-sisan-edicao-virtual",
-   "",
+   "25487-catalogo-do-leilao-em-pdf",
    "banners/91598.jpg"
   ],
   [
@@ -474,22 +424,22 @@
   [
    "2026-11-14",
    "12:00",
+   "Leilão Spring Day",
+   "Nelore",
+   "Spring Day Nelore PO Londrina - PR",
+   "91640-leilao-spring-day",
+   "",
+   "banners/91640.jpg"
+  ],
+  [
+   "2026-11-14",
+   "12:00",
    "Leilão Touros Nelore Mafra - Redenção PA",
    "Nelore",
    "Redenção PA Nelore PO Redenção - PA",
    "91529-leilao-touros-nelore-mafra-redencao-pa",
    "",
    "banners/91529.jpg"
-  ],
-  [
-   "2026-11-14",
-   "12:00",
-   "Spring Day HRO Canaã e RFA",
-   "Nelore",
-   "e RFA Nelore PO Londrina - PR",
-   "91640-spring-day-hro-canaa-e-rfa",
-   "",
-   "banners/91640.jpg"
   ],
   [
    "2026-11-14",
@@ -576,7 +526,7 @@
    "13:00",
    "16º Leilão Genética Fazenda Eldorado",
    "Nelore",
-   "Fazenda Eldorado Nelore PO Pontalinda - SP",
+   "Fazenda Eldorado Pontalinda - SP",
    "91644-16-leilao-genetica-fazenda-eldorado",
    "",
    "banners/91644.jpg"
@@ -618,7 +568,7 @@
    "Outros",
    "Touros e Fêmeas Senepol Londrina - PR",
    "91646-leilao-senepol-3m-touros-e-femeas",
-   "",
+   "25480-catalogo-do-leilao-em-pdf",
    "banners/91646.jpg"
   ],
   [
@@ -654,10 +604,10 @@
   [
    "2026-11-17",
    "20:00",
-   "Gir do Pilar",
+   "Leilão Fazenda Pilar Gir Leiteiro",
    "Leite",
-   "do Pilar Gir Londrina - PR",
-   "91652-gir-do-pilar",
+   "Pilar Gir Leiteiro Gir Londrina - PR",
+   "91652-leilao-fazenda-pilar-gir-leiteiro",
    "",
    "banners/91652.jpg"
   ],
@@ -974,6 +924,16 @@
   [
    "2026-11-25",
    "19:00",
+   "Leilão 4 Linhas de Touros",
+   "Outros",
+   "Ultrablack Porto Alegre - RS",
+   "91856-leilao-4-linhas-de-touros",
+   "",
+   "banners/91856.jpg"
+  ],
+  [
+   "2026-11-25",
+   "19:00",
    "Leilão Especial Fêmeas Fazenda Modotti",
    "Nelore",
    "Fazenda Modotti Nelore PO Londrina - PR",
@@ -1014,12 +974,22 @@
   [
    "2026-11-25",
    "20:00",
-   "Leilão EAO",
+   "Leilão Chave de Ouro 2026",
    "Nelore",
-   "Leilão EAO Nelore PO Salvador - BA",
-   "91604-leilao-eao",
+   "Ouro 2026 Nelore PO Salvador - BA",
+   "91604-leilao-chave-de-ouro-2026",
    "",
    "banners/91604.jpg"
+  ],
+  [
+   "2026-11-26",
+   "19:00",
+   "Leilão Agropecuária Mairni",
+   "Outros",
+   "Porto Alegre - RS",
+   "91855-leilao-agropecuaria-mairni",
+   "",
+   "banners/91855.jpg"
   ],
   [
    "2026-11-26",
@@ -1044,22 +1014,22 @@
   [
    "2026-11-26",
    "20:00",
+   "Leilão Chave de Ouro 2026.",
+   "Nelore",
+   "Ouro 2026. Nelore PO Salvador - BA",
+   "91605-leilao-chave-de-ouro-2026",
+   "",
+   "banners/91605.jpg"
+  ],
+  [
+   "2026-11-26",
+   "20:00",
    "Leilão Fêmeas NGJ - Fazenda Três Corações",
    "Nelore",
    "Três Corações Nelore PO Londrina - PR",
    "91732-leilao-femeas-ngj-fazenda-tres-coracoes",
    "",
    "banners/91732.jpg"
-  ],
-  [
-   "2026-11-26",
-   "20:00",
-   "Leilão Nelore EAO",
-   "Nelore",
-   "quinta-feira 26 NOV Horário 20:00 Leilão Nelore EAO Nelore PO",
-   "91605-leilao-nelore-eao",
-   "",
-   "banners/91605.jpg"
   ],
   [
    "2026-11-27",
@@ -1162,6 +1132,16 @@
    "banners/91837.jpg"
   ],
   [
+   "2026-11-28",
+   "16:00",
+   "Leilão Agroottoni",
+   "Outros",
+   "Porto Alegre - RS",
+   "91857-leilao-agroottoni",
+   "",
+   "banners/91857.jpg"
+  ],
+  [
    "2026-11-29",
    "09:00",
    "4° Grupo Suprema - 5ª Etapa",
@@ -1244,12 +1224,32 @@
   [
    "2026-11-30",
    "19:00",
+   "Leilão Basca por Elas",
+   "Equinos",
+   "por Elas Crioulo Porto Alegre - RS",
+   "91858-leilao-basca-por-elas",
+   "",
+   "banners/91858.jpg"
+  ],
+  [
+   "2026-11-30",
+   "19:00",
    "Leilão Nelore Paranã - Especial Final de Ano",
    "Nelore",
    "Ano Nelore PO São Paulo - SP",
    "91838-leilao-nelore-parana-especial-final-de-ano",
    "",
    "banners/91838.jpg"
+  ],
+  [
+   "2026-11-30",
+   "19:30",
+   "Leilão Touros Modotti",
+   "Nelore",
+   "Touros Modotti Nelore PO Londrina - PR",
+   "91861-leilao-touros-modotti",
+   "",
+   "banners/91861.jpg"
   ],
   [
    "2026-11-30",
@@ -1284,6 +1284,16 @@
   [
    "2026-12-01",
    "19:00",
+   "Leilão Catoni",
+   "Outros",
+   "Ultrablack Londrina - PR",
+   "91859-leilao-catoni",
+   "",
+   "banners/91859.jpg"
+  ],
+  [
+   "2026-12-01",
+   "19:00",
    "Leilão Nelore Paranã - Especial Final de Ano.",
    "Nelore",
    "Ano. Nelore PO São Paulo - SP",
@@ -1310,6 +1320,16 @@
    "91793-matrizes-matinha-edicao-vacas-paridas",
    "",
    "banners/91793.jpg"
+  ],
+  [
+   "2026-12-02",
+   "19:00",
+   "Leilão Embriões HP",
+   "Outros",
+   "Embriões HP Brangus Porto Alegre - RS",
+   "91860-leilao-embrioes-hp",
+   "",
+   "banners/91860.jpg"
   ],
   [
    "2026-12-02",
@@ -1394,6 +1414,16 @@
   [
    "2026-12-05",
    "13:00",
+   "Garrotes ABS Brasil",
+   "Nelore",
+   "ABS Brasil Nelore PO Londrina - PR",
+   "91849-garrotes-abs-brasil",
+   "",
+   "banners/91849.jpg"
+  ],
+  [
+   "2026-12-05",
+   "13:00",
    "Leilão Nelore Reconcavo",
    "Nelore",
    "sábado 05 DEZ Horário 13:00 Leilão Nelore Reconcavo Nelore PO",
@@ -1420,6 +1450,56 @@
    "91804-nelore-fest",
    "",
    "banners/91804.jpg"
+  ],
+  [
+   "2026-12-06",
+   "09:00",
+   "Leilão Matrizes Toca",
+   "Nelore",
+   "Matrizes Toca Nelore PO Londrina - PR",
+   "91850-leilao-matrizes-toca",
+   "",
+   "banners/91850.jpg"
+  ],
+  [
+   "2026-12-06",
+   "09:00",
+   "Leilão Nelore Eliza",
+   "Nelore",
+   "domingo 06 DEZ Horário 09:00 Leilão Nelore Eliza Nelore PO",
+   "91775-leilao-nelore-eliza",
+   "",
+   "banners/91775.jpg"
+  ],
+  [
+   "2026-12-06",
+   "09:00",
+   "Touros Candelaria e Corte",
+   "Gado de Corte",
+   "Corte Gado de Corte Cuiabá - MT",
+   "91811-touros-candelaria-e-corte",
+   "",
+   "banners/91811.jpg"
+  ],
+  [
+   "2026-12-06",
+   "13:00",
+   "Leilão RH Ranch e Amigos;",
+   "Equinos",
+   "de Milha Campos dos Goytacazes - RJ",
+   "91844-leilao-rh-ranch-e-amigos",
+   "",
+   "banners/91844.jpg"
+  ],
+  [
+   "2026-12-06",
+   "13:00",
+   "Leilão Touros Nelore Bomm",
+   "Nelore",
+   "Bomm Nelore PO Londrina - PR",
+   "91851-leilao-touros-nelore-bomm",
+   "",
+   "banners/91851.jpg"
   ]
  ]
 }
