@@ -1,36 +1,6 @@
 {
- "atualizado": "06/11/2026 01:41",
+ "atualizado": "07/11/2026 01:35",
  "L": [
-  [
-   "2026-11-06",
-   "19:00",
-   "4° Leilão Fazenda Laguna",
-   "Nelore",
-   "Laguna Nelore PO Boa Vista - RR",
-   "91753-4-leilao-fazenda-laguna",
-   "25448-catalogo-do-leilao-em-pdf",
-   "banners/91753.jpg"
-  ],
-  [
-   "2026-11-06",
-   "19:30",
-   "2° Leilão Virtual Jumasa e Convidados - Live",
-   "Maquinários",
-   "Live OUTROS Cuiabá - MT",
-   "91757-2-leilao-virtual-jumasa-e-convidados-live",
-   "25456-catalogo-do-leilao-em-pdf",
-   "banners/91757.jpg"
-  ],
-  [
-   "2026-11-06",
-   "20:00",
-   "Leilão Praia do Forte",
-   "Nelore",
-   "do Forte Nelore PO Salvador - BA",
-   "91620-leilao-praia-do-forte",
-   "25482-catalogo-do-leilao-em-pdf",
-   "banners/91620.jpg"
-  ],
   [
    "2026-11-07",
    "12:00",
@@ -68,7 +38,7 @@
    "Maquinários",
    "1ª Etapa OUTROS Cuiabá - MT",
    "91756-2-leilao-virtual-jumasa-e-convidados-1-etapa",
-   "25455-catalogo-do-leilao-em-pdf",
+   "25494-catalogo-do-leilao-em-pdf",
    "banners/91756.jpg"
   ],
   [
@@ -78,7 +48,7 @@
    "Equinos",
    "Ranch Quarto de Milha Goiânia - GO",
    "91739-3-leilao-quarto-de-milha-texas-center-rhf-ranch",
-   "",
+   "25492-catalogo-do-leilao-em-pdf",
    "banners/91739.jpg"
   ],
   [
@@ -108,7 +78,7 @@
    "Leite",
    "Vacas em Lactação Girolando Londrina - PR",
    "91779-leilao-girolando-santa-luzia-vacas-em-lactacao",
-   "25451-catalogo-do-leilao-em-pdf",
+   "25490-catalogo-do-leilao-em-pdf",
    "banners/91779.jpg"
   ],
   [
@@ -118,7 +88,7 @@
    "Maquinários",
    "2ª Etapa OUTROS Cuiabá - MT",
    "91758-2-leilao-virtual-jumasa-e-convidados-2-etapa",
-   "25457-catalogo-do-leilao-em-pdf",
+   "25496-catalogo-do-leilao-em-pdf",
    "banners/91758.jpg"
   ],
   [
@@ -238,7 +208,7 @@
    "Maquinários",
    "3ª Etapa OUTROS Cuiabá - MT",
    "91755-2-leilao-virtual-jumasa-e-convidados-3-etapa",
-   "25454-catalogo-do-leilao-em-pdf",
+   "25493-catalogo-do-leilao-em-pdf",
    "banners/91755.jpg"
   ],
   [
@@ -288,7 +258,7 @@
    "Nelore",
    "& Lucente Nelore PO Londrina - PR",
    "91597-leilao-virtual-elite-selecoes-ourofino-lucente",
-   "",
+   "25491-catalogo-do-leilao-em-pdf",
    "banners/91597.jpg"
   ],
   [
@@ -308,7 +278,7 @@
    "Maquinários",
    "4ª Etapa OUTROS Cuiabá - MT",
    "91759-2-leilao-virtual-jumasa-e-convidados-4-etapa",
-   "25458-catalogo-do-leilao-em-pdf",
+   "25497-catalogo-do-leilao-em-pdf",
    "banners/91759.jpg"
   ],
   [
@@ -358,7 +328,7 @@
    "Maquinários",
    "5ª Etapa OUTROS Cuiabá - MT",
    "91760-2-leilao-virtual-jumasa-e-convidados-5-etapa",
-   "25459-catalogo-do-leilao-em-pdf",
+   "25498-catalogo-do-leilao-em-pdf",
    "banners/91760.jpg"
   ],
   [
@@ -388,7 +358,7 @@
    "Maquinários",
    "6ª Etapa OUTROS Cuiabá - MT",
    "91761-2-leilao-virtual-jumasa-e-convidados-6-etapa",
-   "25460-catalogo-do-leilao-em-pdf",
+   "25499-catalogo-do-leilao-em-pdf",
    "banners/91761.jpg"
   ],
   [
@@ -408,7 +378,7 @@
    "Nelore",
    "Edição Virtual Nelore PO Londrina - PR",
    "91598-leilao-femeas-sisan-edicao-virtual",
-   "25487-catalogo-do-leilao-em-pdf",
+   "25489-catalogo-do-leilao-em-pdf",
    "banners/91598.jpg"
   ],
   [
@@ -448,7 +418,7 @@
    "Maquinários",
    "7ª Etapa OUTROS Cuiabá - MT",
    "91762-2-leilao-virtual-jumasa-e-convidados-7-etapa",
-   "25461-catalogo-do-leilao-em-pdf",
+   "25500-catalogo-do-leilao-em-pdf",
    "banners/91762.jpg"
   ],
   [
@@ -478,7 +448,7 @@
    "Maquinários",
    "8ª Etapa OUTROS Cuiabá - MT",
    "91763-2-leilao-virtual-jumasa-e-convidados-8-etapa",
-   "25462-catalogo-do-leilao-em-pdf",
+   "25501-catalogo-do-leilao-em-pdf",
    "banners/91763.jpg"
   ],
   [
@@ -504,10 +474,10 @@
   [
    "2026-11-15",
    "10:00",
-   "Girolando Holandês Canto Porto",
+   "5º Leilão Virtual Canto Porto",
    "Leite",
    "Londrina - PR",
-   "91792-girolando-holandes-canto-porto",
+   "91792-5-leilao-virtual-canto-porto",
    "",
    "banners/91792.jpg"
   ],
@@ -544,10 +514,10 @@
   [
    "2026-11-16",
    "19:00",
-   "Cpex Excelência Nelore",
+   "Leilão Cpex Excelência Nelore",
    "Nelore",
    "Excelência Nelore Nelore PO Londrina - PR",
-   "91648-cpex-excelencia-nelore",
+   "91648-leilao-cpex-excelencia-nelore",
    "",
    "banners/91648.jpg"
   ],
@@ -560,6 +530,16 @@
    "91745-1-leilao-virtual-mega-assessoria-e-amigos",
    "",
    "banners/91745.jpg"
+  ],
+  [
+   "2026-11-16",
+   "19:30",
+   "Leilão Virtual Quarter Horse Selection",
+   "Equinos",
+   "Selection Quarto de Milha Londrina - PR",
+   "91864-leilao-virtual-quarter-horse-selection",
+   "",
+   "banners/91864.jpg"
   ],
   [
    "2026-11-16",
@@ -1054,10 +1034,10 @@
   [
    "2026-11-27",
    "20:00",
-   "Leilão Roping Futurities",
+   "Leilão Roping Futurities - Sapucaia & Rancho FF",
    "Equinos",
-   "Futurities Quarto de Milha Pindamonhangaba - SP",
-   "91694-leilao-roping-futurities",
+   "FF Quarto de Milha Pindamonhangaba - SP",
+   "91694-leilao-roping-futurities-sapucaia-rancho-ff",
    "",
    "banners/91694.jpg"
   ],
@@ -1473,16 +1453,6 @@
   ],
   [
    "2026-12-06",
-   "09:00",
-   "Touros Candelaria e Corte",
-   "Gado de Corte",
-   "Corte Gado de Corte Cuiabá - MT",
-   "91811-touros-candelaria-e-corte",
-   "",
-   "banners/91811.jpg"
-  ],
-  [
-   "2026-12-06",
    "13:00",
    "Leilão RH Ranch e Amigos;",
    "Equinos",
@@ -1500,6 +1470,46 @@
    "91851-leilao-touros-nelore-bomm",
    "",
    "banners/91851.jpg"
+  ],
+  [
+   "2026-12-06",
+   "14:00",
+   "Leilão Virtual Fazenda Calendária",
+   "Nelore",
+   "Fazenda Calendária Nelore PO Cuiabá - MT",
+   "91811-leilao-virtual-fazenda-calendaria",
+   "",
+   "banners/91811.jpg"
+  ],
+  [
+   "2026-12-06",
+   "19:00",
+   "Leilão Reconquista",
+   "Outros",
+   "Londrina - PR",
+   "91862-leilao-reconquista",
+   "",
+   "banners/91862.jpg"
+  ],
+  [
+   "2026-12-07",
+   "19:00",
+   "Nelore Huff",
+   "Nelore",
+   "Huff Nelore PO Londrina - PR",
+   "91812-nelore-huff",
+   "",
+   "banners/91812.jpg"
+  ],
+  [
+   "2026-12-07",
+   "20:00",
+   "Embriões Casa Branca Cpex",
+   "Nelore",
+   "Branca Cpex Nelore PO Londrina - PR",
+   "91852-embrioes-casa-branca-cpex",
+   "",
+   "banners/91852.jpg"
   ]
  ]
 }
