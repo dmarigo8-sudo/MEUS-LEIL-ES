@@ -1,86 +1,6 @@
 {
- "atualizado": "07/11/2026 01:35",
+ "atualizado": "08/11/2026 01:37",
  "L": [
-  [
-   "2026-11-07",
-   "12:00",
-   "1º Leilão Colonial Sertão Baiano",
-   "Nelore",
-   "Sertão Baiano Nelore PO Guanambi - BA",
-   "91772-1-leilao-colonial-sertao-baiano",
-   "25446-catalogo-do-leilao-em-pdf",
-   "banners/91772.jpg"
-  ],
-  [
-   "2026-11-07",
-   "12:00",
-   "Leilão Elite Rima 100%",
-   "Nelore",
-   "Maria Entre Rios de Minas - MG",
-   "91717-leilao-elite-rima-100",
-   "25429-catalogo-de-mesa-do-leilao",
-   "banners/91717.jpg"
-  ],
-  [
-   "2026-11-07",
-   "12:00",
-   "Leilão de Touros Peso Pesado RG",
-   "Nelore",
-   "RG Nelore Mocho PO Londrina - PR",
-   "91161-leilao-de-touros-peso-pesado-rg",
-   "25470-catalogo-do-leilao-em-pdf",
-   "banners/91161.jpg"
-  ],
-  [
-   "2026-11-07",
-   "13:00",
-   "2° Leilão Virtual Jumasa e Convidados - 1ª Etapa",
-   "Maquinários",
-   "1ª Etapa OUTROS Cuiabá - MT",
-   "91756-2-leilao-virtual-jumasa-e-convidados-1-etapa",
-   "25494-catalogo-do-leilao-em-pdf",
-   "banners/91756.jpg"
-  ],
-  [
-   "2026-11-07",
-   "13:00",
-   "3º Leilão Quarto de Milha Texas Center & RHF Ranch",
-   "Equinos",
-   "Ranch Quarto de Milha Goiânia - GO",
-   "91739-3-leilao-quarto-de-milha-texas-center-rhf-ranch",
-   "25492-catalogo-do-leilao-em-pdf",
-   "banners/91739.jpg"
-  ],
-  [
-   "2026-11-07",
-   "13:00",
-   "4º Leilão Tabapuã da Amazônia",
-   "Outros",
-   "da Amazônia Tabapuã Boa Vista - RR",
-   "91492-4-leilao-tabapua-da-amazonia",
-   "",
-   "banners/91492.jpg"
-  ],
-  [
-   "2026-11-07",
-   "13:00",
-   "Leilão Nelore PO Fazenda São João - Grupo Camargo",
-   "Nelore",
-   "Grupo Camargo Nelore PO Londrina - PR",
-   "91451-leilao-nelore-po-fazenda-sao-joao-grupo-camargo",
-   "25488-catalogo-do-leilao-em-pdf",
-   "banners/91451.jpg"
-  ],
-  [
-   "2026-11-07",
-   "14:00",
-   "Leilão Girolando Santa Luzia - Vacas em Lactação",
-   "Leite",
-   "Vacas em Lactação Girolando Londrina - PR",
-   "91779-leilao-girolando-santa-luzia-vacas-em-lactacao",
-   "25490-catalogo-do-leilao-em-pdf",
-   "banners/91779.jpg"
-  ],
   [
    "2026-11-08",
    "09:00",
@@ -108,7 +28,7 @@
    "Nelore",
    "Pintado Nelore Pintado PO Londrina - PR",
    "91607-3-leilao-grife-do-pintado",
-   "25486-catalogo-do-leilao-em-pdf",
+   "25504-catalogo-do-leilao-em-pdf",
    "banners/91607.jpg"
   ],
   [
@@ -158,7 +78,7 @@
    "Nelore",
    "Elite Sabiá Nelore PO Capitólio - MG",
    "91626-shopping-elite-sabia",
-   "",
+   "25503-catalogo-do-leilao-em-pdf",
    "banners/91626.jpg"
   ],
   [
@@ -1510,6 +1430,36 @@
    "91852-embrioes-casa-branca-cpex",
    "",
    "banners/91852.jpg"
+  ],
+  [
+   "2026-12-08",
+   "19:00",
+   "Nelore Xito",
+   "Nelore",
+   "Xito Nelore PO Londrina - PR",
+   "91813-nelore-xito",
+   "",
+   "banners/91813.jpg"
+  ],
+  [
+   "2026-12-08",
+   "19:30",
+   "Leilão Caruana.",
+   "Equinos",
+   "Caruana. Quarto de Milha Londrina - PR",
+   "91845-leilao-caruana",
+   "",
+   "banners/91845.jpg"
+  ],
+  [
+   "2026-12-08",
+   "20:00",
+   "Nelore Mato Verde Matrizes",
+   "Nelore",
+   "Verde Matrizes Nelore PO Londrina - PR",
+   "91814-nelore-mato-verde-matrizes",
+   "",
+   "banners/91814.jpg"
   ]
  ]
 }
