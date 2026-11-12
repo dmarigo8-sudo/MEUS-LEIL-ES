@@ -1,46 +1,6 @@
 {
- "atualizado": "11/11/2026 01:42",
+ "atualizado": "12/11/2026 01:42",
  "L": [
-  [
-   "2026-11-11",
-   "09:00",
-   "Shopping Girolando Nova Trindade",
-   "Leite",
-   "Nova Trindade Girolando Londrina - PR",
-   "91836-shopping-girolando-nova-trindade",
-   "25453-catalogo-do-leilao-em-pdf",
-   "banners/91836.jpg"
-  ],
-  [
-   "2026-11-11",
-   "19:00",
-   "Apresentação dos Animais Leilão Chave de Ouro.",
-   "Nelore",
-   "de Ouro. Nelore PO Londrina - PR",
-   "91869-apresentacao-dos-animais-leilao-chave-de-ouro",
-   "",
-   "banners/91869.jpg"
-  ],
-  [
-   "2026-11-11",
-   "19:30",
-   "2° Leilão Virtual Jumasa e Convidados - 5ª Etapa",
-   "Maquinários",
-   "5ª Etapa OUTROS Cuiabá - MT",
-   "91760-2-leilao-virtual-jumasa-e-convidados-5-etapa",
-   "25527-catalogo-do-leilao-em-pdf",
-   "banners/91760.jpg"
-  ],
-  [
-   "2026-11-11",
-   "19:30",
-   "Leilão Virtual Renata Ricci e Amigos",
-   "Equinos",
-   "Amigos Quarto de Milha Londrina - PR",
-   "91741-leilao-virtual-renata-ricci-e-amigos",
-   "",
-   "banners/91741.jpg"
-  ],
   [
    "2026-11-12",
    "19:00",
@@ -98,7 +58,7 @@
    "Nelore",
    "Day 2026 Nelore PO Londrina - PR",
    "91640-leilao-spring-day-2026",
-   "",
+   "25537-catalogo-do-leilao-em-pdf",
    "banners/91640.jpg"
   ],
   [
@@ -138,7 +98,7 @@
    "Leite",
    "Agro Gir Leiteiro Gir Londrina - PR",
    "91602-5-leilao-matter-agro-gir-leiteiro",
-   "",
+   "25538-catalogo-do-leilao-em-pdf",
    "banners/91602.jpg"
   ],
   [
@@ -168,7 +128,7 @@
    "Leite",
    "Londrina - PR",
    "91792-5-leilao-virtual-canto-porto",
-   "",
+   "25535-catalogo-do-leilao-em-pdf",
    "banners/91792.jpg"
   ],
   [
@@ -198,7 +158,7 @@
    "Nelore",
    "Fazenda Eldorado Pontalinda - SP",
    "91644-16-leilao-genetica-fazenda-eldorado",
-   "",
+   "25533-catalogo-do-leilao-em-pdf",
    "banners/91644.jpg"
   ],
   [
@@ -218,7 +178,7 @@
    "Nelore",
    "Gibertoni Nelore PO Londrina - PR",
    "91799-leilao-virtual-elite-nelore-gibertoni",
-   "25508-catalogo-do-leilao-em-pdf",
+   "25534-catalogo-do-leilao-em-pdf",
    "banners/91799.jpg"
   ],
   [
@@ -403,10 +363,20 @@
   ],
   [
    "2026-11-21",
+   "12:00",
+   "Leilão Nelore Pintado Gênesis & Convidados",
+   "Nelore",
+   "& Convidados Nelore Pintado Londrina - PR",
+   "91658-leilao-nelore-pintado-genesis-convidados",
+   "",
+   "banners/91658.jpg"
+  ],
+  [
+   "2026-11-21",
    "13:00",
    "Cpex Embriões",
    "Nelore",
-   "Cpex Embriões Nelore PO Londrina - PR",
+   "Embriões Nelore PO Mogi Mirim - SP",
    "91871-cpex-embrioes",
    "",
    "banners/91871.jpg"
@@ -420,16 +390,6 @@
    "91657-leilao-ab-weekend-touros",
    "",
    "banners/91657.jpg"
-  ],
-  [
-   "2026-11-21",
-   "13:00",
-   "Leilão Nelore Pintado Gênesis & Convidados",
-   "Nelore",
-   "& Convidados Nelore Pintado Londrina - PR",
-   "91658-leilao-nelore-pintado-genesis-convidados",
-   "",
-   "banners/91658.jpg"
   ],
   [
    "2026-11-21",
@@ -456,7 +416,7 @@
    "09:00",
    "Cpex Embriões - Corte",
    "Gado de Corte",
-   "Corte Gado de Corte Londrina - PR",
+   "Mogi Mirim - SP",
    "91808-cpex-embrioes-corte",
    "",
    "banners/91808.jpg"
@@ -503,6 +463,16 @@
   ],
   [
    "2026-11-22",
+   "16:00",
+   "Leilão Genética Comprovada Agroottoni",
+   "Outros",
+   "Comprovada Agroottoni Angus Porto Alegre - RS",
+   "91878-leilao-genetica-comprovada-agroottoni",
+   "",
+   "banners/91878.jpg"
+  ],
+  [
+   "2026-11-22",
    "17:00",
    "Leilão Gran Filé",
    "Nelore",
@@ -528,7 +498,7 @@
    "Nelore",
    "Seleção Baby Nelore Pintado Maceió - AL",
    "91635-leilao-agropecuaria-prado-s-selecao-baby",
-   "",
+   "25531-catalogo-do-leilao-em-pdf",
    "banners/91635.jpg"
   ],
   [
@@ -776,7 +746,7 @@
    "12:00",
    "Leilão Gir 2B",
    "Leite",
-   "2B Gir Leiteiro Ferros - MG",
+   "2B Gir Leiteiro Londrina - PR",
    "91733-leilao-gir-2b",
    "",
    "banners/91733.jpg"
@@ -950,6 +920,16 @@
    "91873-cpex-girolando",
    "",
    "banners/91873.jpg"
+  ],
+  [
+   "2026-11-30",
+   "20:00",
+   "Leilão Seleção Especial do Chicão",
+   "Nelore",
+   "do Chicão Nelore PO Londrina - PR",
+   "91877-leilao-selecao-especial-do-chicao",
+   "",
+   "banners/91877.jpg"
   ],
   [
    "2026-11-30",
@@ -1304,10 +1284,10 @@
   [
    "2026-12-10",
    "19:00",
-   "Leilão Touros Império",
+   "4º Leilão Virtual Fazenda Império",
    "Nelore",
-   "Touros Império Nelore PO Londrina - PR",
-   "91818-leilao-touros-imperio",
+   "Fazenda Império Nelore PO Londrina - PR",
+   "91818-4-leilao-virtual-fazenda-imperio",
    "",
    "banners/91818.jpg"
   ],
@@ -1350,6 +1330,46 @@
    "91819-pintado-fest",
    "",
    "banners/91819.jpg"
+  ],
+  [
+   "2026-12-12",
+   "12:00",
+   "Nelore Ceia",
+   "Nelore",
+   "Ceia Nelore PO Londrina - PR",
+   "91820-nelore-ceia",
+   "",
+   "banners/91820.jpg"
+  ],
+  [
+   "2026-12-12",
+   "12:00",
+   "Pintado Fest.",
+   "Nelore",
+   "Pintado Fest. Nelore Pintado Londrina - PR",
+   "91824-pintado-fest",
+   "",
+   "banners/91824.jpg"
+  ],
+  [
+   "2026-12-12",
+   "14:00",
+   "Elite Sausalito Bolívia",
+   "Nelore",
+   "sábado 12 DEZ Horário 14:00 Elite Sausalito Bolívia Nelore PO",
+   "91823-elite-sausalito-bolivia",
+   "",
+   "banners/91823.jpg"
+  ],
+  [
+   "2026-12-19",
+   "09:00",
+   "2° Shopping Nelore SM & Convidados",
+   "Nelore",
+   "Convidados Nelore PO São Benedito - CE",
+   "91841-2-shopping-nelore-sm-convidados",
+   "",
+   "banners/91841.jpg"
   ]
  ]
 }
