@@ -1,5 +1,5 @@
 {
- "atualizado": "13/11/2026 01:42",
+ "atualizado": "14/11/2026 01:37",
  "L": [
   [
    "2026-11-14",
@@ -8,7 +8,7 @@
    "Nelore",
    "& Convidados Nelore PO Catu - BA",
    "91722-leilao-fazenda-sao-miguel-convidados",
-   "",
+   "25556-catalogo-do-leilao-em-pdf",
    "banners/91722.jpg"
   ],
   [
@@ -38,7 +38,7 @@
    "Maquinários",
    "7ª Etapa OUTROS Cuiabá - MT",
    "91762-2-leilao-virtual-jumasa-e-convidados-7-etapa",
-   "25546-catalogo-do-leilao-em-pdf",
+   "25549-catalogo-do-leilao-em-pdf",
    "banners/91762.jpg"
   ],
   [
@@ -68,18 +68,18 @@
    "Maquinários",
    "8ª Etapa OUTROS Londrina - PR",
    "91763-2-leilao-virtual-jumasa-e-convidados-8-etapa",
-   "25547-catalogo-do-leilao-em-pdf",
+   "25550-catalogo-do-leilao-em-pdf",
    "banners/91763.jpg"
   ],
   [
    "2026-11-15",
    "09:00",
    "Leilão Virtual Super Safra Santa Cruz",
-   "Nelore",
+   "Gado de Corte",
    "Santa Cruz Nelore PO Londrina - PR",
-   "91633-leilao-virtual-super-safra-santa-cruz",
-   "25525-catalogo-do-leilao-em-pdf",
-   "banners/91633.jpg"
+   "91880-leilao-virtual-super-safra-santa-cruz",
+   "25554-catalogo-do-leilao-em-pdf",
+   "banners/91880.jpg"
   ],
   [
    "2026-11-15",
@@ -98,7 +98,7 @@
    "Nelore",
    "& Convidados Nelore PO Acajutiba - BA",
    "91645-3-leilao-nelore-jesb-convidados",
-   "",
+   "25555-catalogo-do-leilao-em-pdf",
    "banners/91645.jpg"
   ],
   [
@@ -106,7 +106,7 @@
    "12:00",
    "Leilão RP All Black",
    "Equinos",
-   "Milha Santo Antônio de Posse - SP",
+   "Black Quarto de Milha Amparo - SP",
    "91682-leilao-rp-all-black",
    "",
    "banners/91682.jpg"
@@ -228,7 +228,7 @@
    "Nelore",
    "Etapa Fêmeas Nelore PO Londrina - PR",
    "91651-8-leilao-virtual-nelore-caraibas-etapa-femeas",
-   "",
+   "25552-catalogo-do-leilao-em-pdf",
    "banners/91651.jpg"
   ],
   [
@@ -258,7 +258,7 @@
    "Nelore",
    "Etapa Touros Nelore PO Londrina - PR",
    "91653-8-leilao-virtual-nelore-caraibas-etapa-touros",
-   "",
+   "25558-catalogo-do-leilao-em-pdf",
    "banners/91653.jpg"
   ],
   [
@@ -274,10 +274,10 @@
   [
    "2026-11-20",
    "19:00",
-   "Leilão Agropecuária Fedrigo",
+   "Leilão Virtual Agropecuária Fedrigo & Amigos",
    "Equinos",
-   "Fedrigo Quarto de Milha Londrina - PR",
-   "91688-leilao-agropecuaria-fedrigo",
+   "Amigos Quarto de Milha Londrina - PR",
+   "91688-leilao-virtual-agropecuaria-fedrigo-amigos",
    "",
    "banners/91688.jpg"
   ],
@@ -388,7 +388,7 @@
    "Gado de Corte",
    "Faitta Gado de Corte Cuiabá - MT",
    "91725-leilao-virtual-fazenda-preciosa-miguel-faitta",
-   "",
+   "25553-catalogo-do-leilao-em-pdf",
    "banners/91725.jpg"
   ],
   [
@@ -448,7 +448,7 @@
    "Nelore",
    "Seleção Baby Nelore Pintado Maceió - AL",
    "91635-leilao-agropecuaria-prado-s-selecao-baby",
-   "25531-catalogo-do-leilao-em-pdf",
+   "25557-catalogo-do-leilao-em-pdf",
    "banners/91635.jpg"
   ],
   [
@@ -1034,22 +1034,22 @@
   [
    "2026-12-04",
    "19:00",
-   "Leilão Virtual ABCZ Jovem",
-   "Nelore",
-   "ABCZ Jovem Nelore PO Londrina - PR",
-   "91868-leilao-virtual-abcz-jovem",
-   "",
-   "banners/91868.jpg"
-  ],
-  [
-   "2026-12-04",
-   "20:00",
    "Leilão Raízes do Futuro",
    "Nelore",
    "do Futuro Nelore PO Salvador - BA",
    "91803-leilao-raizes-do-futuro",
    "",
    "banners/91803.jpg"
+  ],
+  [
+   "2026-12-04",
+   "19:00",
+   "Leilão Virtual ABCZ Jovem",
+   "Nelore",
+   "ABCZ Jovem Nelore PO Londrina - PR",
+   "91868-leilao-virtual-abcz-jovem",
+   "",
+   "banners/91868.jpg"
   ],
   [
    "2026-12-05",
@@ -1360,6 +1360,26 @@
    "91846-4-leilao-tropa-nova-aurora-amigos",
    "",
    "banners/91846.jpg"
+  ],
+  [
+   "2026-12-14",
+   "19:00",
+   "Nelore Ibaneis Baby",
+   "Nelore",
+   "Ibaneis Baby Nelore PO Londrina - PR",
+   "91829-nelore-ibaneis-baby",
+   "",
+   "banners/91829.jpg"
+  ],
+  [
+   "2026-12-14",
+   "20:00",
+   "Matrizes Edap",
+   "Nelore",
+   "Matrizes Edap Nelore PO Londrina - PR",
+   "91830-matrizes-edap",
+   "",
+   "banners/91830.jpg"
   ],
   [
    "2026-12-19",
