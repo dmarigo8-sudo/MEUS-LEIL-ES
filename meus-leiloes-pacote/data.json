@@ -1,36 +1,6 @@
 {
- "atualizado": "16/11/2026 02:14",
+ "atualizado": "17/11/2026 01:44",
  "L": [
-  [
-   "2026-11-16",
-   "19:00",
-   "Leilão Virtual Elite Nelore Gibertoni",
-   "Nelore",
-   "Gibertoni Nelore PO Londrina - PR",
-   "91799-leilao-virtual-elite-nelore-gibertoni",
-   "25534-catalogo-do-leilao-em-pdf",
-   "banners/91799.jpg"
-  ],
-  [
-   "2026-11-16",
-   "19:30",
-   "1° Leilão Virtual Mega Assessoria e Amigos",
-   "Equinos",
-   "Amigos Quarto de Milha Londrina - PR",
-   "91745-1-leilao-virtual-mega-assessoria-e-amigos",
-   "",
-   "banners/91745.jpg"
-  ],
-  [
-   "2026-11-16",
-   "20:00",
-   "Leilão Senepol 3M - Touros e Fêmeas",
-   "Outros",
-   "Touros e Fêmeas Senepol Londrina - PR",
-   "91646-leilao-senepol-3m-touros-e-femeas",
-   "25480-catalogo-do-leilao-em-pdf",
-   "banners/91646.jpg"
-  ],
   [
    "2026-11-17",
    "19:00",
@@ -58,7 +28,7 @@
    "Leite",
    "Pilar Gir Leiteiro Gir Londrina - PR",
    "91652-leilao-fazenda-pilar-gir-leiteiro",
-   "25542-catalogo-do-leilao-em-pdf",
+   "25561-catalogo-do-leilao-em-pdf",
    "banners/91652.jpg"
   ],
   [
@@ -68,13 +38,13 @@
    "Nelore",
    "CNBJ Nelore PO Londrina - PR",
    "91774-leilao-poder-genetico-etapa-femeas-nelore-cnbj",
-   "",
+   "25560-catalogo-do-leilao-em-pdf",
    "banners/91774.jpg"
   ],
   [
    "2026-11-18",
    "19:00",
-   "2° Leilão Estância Mime",
+   "2º Leilão Estância Mime",
    "Equinos",
    "Mime Quarto de Milha Londrina - PR",
    "91684-2-leilao-estancia-mime",
@@ -88,7 +58,7 @@
    "Nelore",
    "CNBJ Nelore PO Londrina - PR",
    "91654-leilao-poder-genetico-etapa-machos-nelore-cnbj",
-   "",
+   "25559-catalogo-do-leilao-em-pdf",
    "banners/91654.jpg"
   ],
   [
@@ -194,21 +164,11 @@
   [
    "2026-11-21",
    "13:00",
-   "Cpex Embriões",
-   "Nelore",
-   "Embriões Nelore PO Mogi Mirim - SP",
-   "91871-cpex-embrioes",
-   "",
-   "banners/91871.jpg"
-  ],
-  [
-   "2026-11-21",
-   "13:00",
    "Leilão AB Weekend - Touros",
    "Nelore",
    "Touros Nelore PO Barreiras - BA",
    "91657-leilao-ab-weekend-touros",
-   "",
+   "25566-catalogo-do-leilao-em-pdf",
    "banners/91657.jpg"
   ],
   [
@@ -234,10 +194,10 @@
   [
    "2026-11-22",
    "09:00",
-   "Cpex Embriões - Corte",
+   "Mega Leilão CPEX - Especial 2026",
    "Gado de Corte",
    "Mogi Mirim - SP",
-   "91808-cpex-embrioes-corte",
+   "91808-mega-leilao-cpex-especial-2026",
    "",
    "banners/91808.jpg"
   ],
@@ -288,18 +248,8 @@
    "Outros",
    "Comprovada Agroottoni Angus Porto Alegre - RS",
    "91878-leilao-genetica-comprovada-agroottoni",
-   "",
+   "25562-catalogo-do-leilao-em-pdf",
    "banners/91878.jpg"
-  ],
-  [
-   "2026-11-22",
-   "17:00",
-   "Leilão Gran Filé",
-   "Nelore",
-   "Gran Filé Nelore PO Londrina - PR",
-   "91872-leilao-gran-file",
-   "",
-   "banners/91872.jpg"
   ],
   [
    "2026-11-23",
@@ -408,18 +358,18 @@
    "Nelore",
    "Qualidade Corona Nelore PO Londrina - PR",
    "91662-2-etapa-leilao-virtual-qualidade-corona",
-   "",
+   "25563-catalogo-do-leilao-em-pdf",
    "banners/91662.jpg"
   ],
   [
    "2026-11-25",
    "19:00",
-   "Leilão 4 Linhas de Touros",
-   "Outros",
-   "Ultrablack Porto Alegre - RS",
-   "91856-leilao-4-linhas-de-touros",
+   "5º Leilão Cavalos de Laço Amigos do Sinuelo",
+   "Equinos",
+   "Londrina - PR",
+   "91766-5-leilao-cavalos-de-laco-amigos-do-sinuelo",
    "",
-   "banners/91856.jpg"
+   "banners/91766.jpg"
   ],
   [
    "2026-11-25",
@@ -430,26 +380,6 @@
    "91731-leilao-especial-femeas-fazenda-modotti",
    "",
    "banners/91731.jpg"
-  ],
-  [
-   "2026-11-25",
-   "19:00",
-   "Leilão Rincao da Sinuelo e Convidados",
-   "Equinos",
-   "Convidados Quarto de Milha Londrina - PR",
-   "91766-leilao-rincao-da-sinuelo-e-convidados",
-   "",
-   "banners/91766.jpg"
-  ],
-  [
-   "2026-11-25",
-   "19:00",
-   "Leilão de Reinauguração do Recinto Terra Próspera",
-   "Nelore",
-   "Terra Próspera Nelore PO Palmas - TO",
-   "91847-leilao-de-reinauguracao-do-recinto-terra-prospera",
-   "",
-   "banners/91847.jpg"
   ],
   [
    "2026-11-25",
@@ -474,12 +404,12 @@
   [
    "2026-11-26",
    "19:00",
-   "Leilão Agropecuária Mairni",
+   "Leilão 4 Linhas de Touros",
    "Outros",
-   "Porto Alegre - RS",
-   "91855-leilao-agropecuaria-mairni",
+   "Ultrablack Porto Alegre - RS",
+   "91856-leilao-4-linhas-de-touros",
    "",
-   "banners/91855.jpg"
+   "banners/91856.jpg"
   ],
   [
    "2026-11-26",
@@ -564,12 +494,22 @@
   [
    "2026-11-28",
    "12:00",
-   "Leilão Genetic Access",
-   "Leite",
-   "Genetic Access Gir Leiteiro Londrina - PR",
-   "91733-leilao-genetic-access",
+   "36º Leilão Genética Conquista - Nelore & Senepol",
+   "Nelore",
+   "& Senepol Nelore PO Londrina - PR",
+   "91809-36-leilao-genetica-conquista-nelore-senepol",
    "",
-   "banners/91733.jpg"
+   "banners/91809.jpg"
+  ],
+  [
+   "2026-11-28",
+   "12:00",
+   "Leilão Presencial Fazenda API - Etapa Reprodutores",
+   "Nelore",
+   "Etapa Reprodutores Nelore PO Catu - BA",
+   "91668-leilao-presencial-fazenda-api-etapa-reprodutores",
+   "",
+   "banners/91668.jpg"
   ],
   [
    "2026-11-28",
@@ -584,42 +524,12 @@
   [
    "2026-11-28",
    "12:00",
-   "Nelore API Touros",
-   "Nelore",
-   "sábado 28 NOV Horário 12:00 Nelore API Touros Nelore PO",
-   "91668-nelore-api-touros",
-   "",
-   "banners/91668.jpg"
-  ],
-  [
-   "2026-11-28",
-   "13:00",
-   "Leilão Nelore Conquista",
-   "Nelore",
-   "Conquista Nelore PO Londrina - PR",
-   "91809-leilao-nelore-conquista",
-   "",
-   "banners/91809.jpg"
-  ],
-  [
-   "2026-11-28",
-   "14:00",
-   "Leilão Girolando Novo Tempo",
+   "Leilão Virtual Genetic Access",
    "Leite",
-   "Novo Tempo Girolando Londrina - PR",
-   "91837-leilao-girolando-novo-tempo",
+   "Genetic Access Gir Leiteiro Londrina - PR",
+   "91733-leilao-virtual-genetic-access",
    "",
-   "banners/91837.jpg"
-  ],
-  [
-   "2026-11-28",
-   "16:00",
-   "Leilão Agroottoni",
-   "Outros",
-   "Porto Alegre - RS",
-   "91857-leilao-agroottoni",
-   "",
-   "banners/91857.jpg"
+   "banners/91733.jpg"
   ],
   [
    "2026-11-29",
@@ -698,7 +608,7 @@
    "Outros",
    "São Caetano Ovinos Porto Alegre - RS",
    "91827-leilao-virtual-cabanha-sao-caetano",
-   "",
+   "25564-catalogo-do-leilao-em-pdf",
    "banners/91827.jpg"
   ],
   [
@@ -744,10 +654,10 @@
   [
    "2026-11-30",
    "20:00",
-   "Cpex Girolando",
+   "Leilão Cpex Girolando",
    "Leite",
-   "20:00 Cpex Girolando Girolando Londrina - PR",
-   "91873-cpex-girolando",
+   "Leilão Cpex Girolando Girolando Londrina - PR",
+   "91873-leilao-cpex-girolando",
    "",
    "banners/91873.jpg"
   ],
@@ -764,32 +674,22 @@
   [
    "2026-11-30",
    "20:00",
-   "Matrizes API",
+   "Leilão Virtual Fazenda API - Etapa Matrizes",
    "Nelore",
-   "segunda-feira 30 NOV Horário 20:00 Matrizes API Nelore PO",
-   "91677-matrizes-api",
+   "Etapa Matrizes Nelore PO Catu - BA",
+   "91677-leilao-virtual-fazenda-api-etapa-matrizes",
    "",
    "banners/91677.jpg"
   ],
   [
-   "2026-11-30",
-   "20:00",
-   "Matrizes Paranã",
-   "Nelore",
-   "Paranã Nelore PO São Paulo - SP",
-   "91709-matrizes-parana",
-   "",
-   "banners/91709.jpg"
-  ],
-  [
    "2026-12-01",
    "19:00",
-   "Leilão Catoni",
+   "Leilão Agropecuária Mairni",
    "Outros",
-   "Ultrablack Londrina - PR",
-   "91859-leilao-catoni",
+   "Porto Alegre - RS",
+   "91855-leilao-agropecuaria-mairni",
    "",
-   "banners/91859.jpg"
+   "banners/91855.jpg"
   ],
   [
    "2026-12-01",
@@ -893,11 +793,21 @@
   ],
   [
    "2026-12-03",
+   "19:00",
+   "Leilão Catoni",
+   "Outros",
+   "Ultrablack Londrina - PR",
+   "91859-leilao-catoni",
+   "",
+   "banners/91859.jpg"
+  ],
+  [
+   "2026-12-03",
    "20:00",
-   "Leeilão Baby Gir Claciolandia",
+   "62° Leilão Baby Gir Calciolandia",
    "Leite",
-   "Baby Gir Claciolandia Gir Londrina - PR",
-   "91801-leeilao-baby-gir-claciolandia",
+   "Baby Gir Calciolandia Gir Londrina - PR",
+   "91801-62-leilao-baby-gir-calciolandia",
    "",
    "banners/91801.jpg"
   ],
@@ -926,7 +836,7 @@
    "12:30",
    "2º Leilão Nelore São Pedro",
    "Nelore",
-   "sábado 05 DEZ Horário 12:30 2º Leilão Nelore São Pedro Nelore PO",
+   "Pedro Nelore PO São Paulo - SP",
    "91679-2-leilao-nelore-sao-pedro",
    "",
    "banners/91679.jpg"
@@ -984,12 +894,12 @@
   [
    "2026-12-06",
    "09:00",
-   "Leilão Matrizes Toca",
+   "Leilão Genética em Evidência Nelore Bomm",
    "Nelore",
-   "Matrizes Toca Nelore PO Londrina - PR",
-   "91850-leilao-matrizes-toca",
+   "Bomm Nelore PO Londrina - PR",
+   "91851-leilao-genetica-em-evidencia-nelore-bomm",
    "",
-   "banners/91850.jpg"
+   "banners/91851.jpg"
   ],
   [
    "2026-12-06",
@@ -1013,21 +923,11 @@
   ],
   [
    "2026-12-06",
-   "13:00",
-   "Leilão Touros Nelore Bomm",
-   "Nelore",
-   "Bomm Nelore PO Londrina - PR",
-   "91851-leilao-touros-nelore-bomm",
-   "",
-   "banners/91851.jpg"
-  ],
-  [
-   "2026-12-06",
    "14:00",
-   "Leilão Virtual Fazenda Calendária",
+   "Leilão Virtual Fazenda Candelária",
    "Nelore",
-   "Fazenda Calendária Nelore PO Cuiabá - MT",
-   "91811-leilao-virtual-fazenda-calendaria",
+   "Fazenda Candelária Nelore PO Cuiabá - MT",
+   "91811-leilao-virtual-fazenda-candelaria",
    "",
    "banners/91811.jpg"
   ],
@@ -1300,6 +1200,26 @@
    "91834-touros-edap",
    "",
    "banners/91834.jpg"
+  ],
+  [
+   "2026-12-17",
+   "19:00",
+   "6º Leilão Nelore Bank Matrizes",
+   "Nelore",
+   "Bank Matrizes Nelore PO Londrina - PR",
+   "91835-6-leilao-nelore-bank-matrizes",
+   "",
+   "banners/91835.jpg"
+  ],
+  [
+   "2026-12-17",
+   "20:00",
+   "Leilão Nelore Cascão",
+   "Nelore",
+   "Cascão Nelore PO Londrina - PR",
+   "91876-leilao-nelore-cascao",
+   "",
+   "banners/91876.jpg"
   ],
   [
    "2026-12-19",
