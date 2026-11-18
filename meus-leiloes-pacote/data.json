@@ -1,46 +1,6 @@
 {
- "atualizado": "17/11/2026 01:44",
+ "atualizado": "18/11/2026 01:46",
  "L": [
-  [
-   "2026-11-17",
-   "19:00",
-   "1° Leilão Virtual WTR e Padovan",
-   "Equinos",
-   "Padovan Quarto de Milha Londrina - PR",
-   "91683-1-leilao-virtual-wtr-e-padovan",
-   "",
-   "banners/91683.jpg"
-  ],
-  [
-   "2026-11-17",
-   "19:00",
-   "Leilão Virtual Touros Melhoradores Grupo Mônica",
-   "Nelore",
-   "Grupo Mônica Nelore PO Londrina - PR",
-   "91726-leilao-virtual-touros-melhoradores-grupo-monica",
-   "25543-catalogo-do-leilao-em-pdf",
-   "banners/91726.jpg"
-  ],
-  [
-   "2026-11-17",
-   "20:00",
-   "Leilão Fazenda Pilar Gir Leiteiro",
-   "Leite",
-   "Pilar Gir Leiteiro Gir Londrina - PR",
-   "91652-leilao-fazenda-pilar-gir-leiteiro",
-   "25561-catalogo-do-leilao-em-pdf",
-   "banners/91652.jpg"
-  ],
-  [
-   "2026-11-17",
-   "20:00",
-   "Leilão Poder Genético Etapa Fêmeas - Nelore CNBJ",
-   "Nelore",
-   "CNBJ Nelore PO Londrina - PR",
-   "91774-leilao-poder-genetico-etapa-femeas-nelore-cnbj",
-   "25560-catalogo-do-leilao-em-pdf",
-   "banners/91774.jpg"
-  ],
   [
    "2026-11-18",
    "19:00",
@@ -88,7 +48,7 @@
    "Nelore",
    "do Iguaçu Foz do Iguaçu - PR",
    "91550-leilao-cataratas-collection-rs-casa-branca",
-   "",
+   "25570-catalogo-do-leilao-em-pdf",
    "banners/91550.jpg"
   ],
   [
@@ -128,7 +88,7 @@
    "Nelore",
    "Prata Nelore PO Aracaju - SE",
    "91718-2-leilao-nelore-prata",
-   "",
+   "25568-catalogo-do-leilao-em-pdf",
    "banners/91718.jpg"
   ],
   [
@@ -138,7 +98,7 @@
    "Nelore",
    "Foz do Iguaçu - PR",
    "91551-leilao-cataratas-collection-rs-casa-branca",
-   "",
+   "25571-catalogo-do-leilao-em-pdf",
    "banners/91551.jpg"
   ],
   [
@@ -158,7 +118,7 @@
    "Nelore",
    "& Convidados Nelore Pintado Londrina - PR",
    "91658-leilao-nelore-pintado-genesis-convidados",
-   "",
+   "25572-catalogo-do-leilao-em-pdf",
    "banners/91658.jpg"
   ],
   [
@@ -174,10 +134,10 @@
   [
    "2026-11-21",
    "15:00",
-   "31° Leilão Competetion Faz Santa Maria",
+   "31° Leilão Competition Faz Santa Maria",
    "Equinos",
    "Maria Quarto de Milha Londrina - PR",
-   "91747-31-leilao-competetion-faz-santa-maria",
+   "91747-31-leilao-competition-faz-santa-maria",
    "",
    "banners/91747.jpg"
   ],
@@ -215,7 +175,7 @@
    "2026-11-22",
    "10:00",
    "Leilão Virtual Fazenda Preciosa Miguel Faitta",
-   "Gado de Corte",
+   "Outros",
    "Faitta Gado de Corte Cuiabá - MT",
    "91725-leilao-virtual-fazenda-preciosa-miguel-faitta",
    "25553-catalogo-do-leilao-em-pdf",
@@ -238,7 +198,7 @@
    "Nelore",
    "Matrizes Nelore PO Barreiras - BA",
    "91659-leilao-ab-weekend-matrizes",
-   "",
+   "25575-catalogo-do-leilao-em-pdf",
    "banners/91659.jpg"
   ],
   [
@@ -268,7 +228,7 @@
    "Nelore",
    "Seleção Baby Nelore Pintado Maceió - AL",
    "91635-leilao-agropecuaria-prado-s-selecao-baby",
-   "25557-catalogo-do-leilao-em-pdf",
+   "25567-catalogo-do-leilao-em-pdf",
    "banners/91635.jpg"
   ],
   [
@@ -338,7 +298,7 @@
    "Nelore",
    "e Matrizes Nelore PO Maceió - AL",
    "91776-leilao-virtual-genetica-varrela-reprodutores-e-matrizes",
-   "",
+   "25574-catalogo-do-leilao-em-pdf",
    "banners/91776.jpg"
   ],
   [
@@ -684,22 +644,22 @@
   [
    "2026-12-01",
    "19:00",
-   "Leilão Agropecuária Mairni",
-   "Outros",
-   "Porto Alegre - RS",
-   "91855-leilao-agropecuaria-mairni",
-   "",
-   "banners/91855.jpg"
-  ],
-  [
-   "2026-12-01",
-   "19:00",
    "Leilão Nelore Paranã - Especial Final de Ano.",
    "Nelore",
    "Ano. Nelore PO São Paulo - SP",
    "91791-leilao-nelore-parana-especial-final-de-ano",
    "",
    "banners/91791.jpg"
+  ],
+  [
+   "2026-12-01",
+   "19:30",
+   "2° Leilão Virtual Máquinas & Implementos DGF",
+   "Maquinários",
+   "& Implementos DGF OUTROS Londrina - PR",
+   "91884-2-leilao-virtual-maquinas-implementos-dgf",
+   "",
+   "banners/91884.jpg"
   ],
   [
    "2026-12-01",
@@ -734,16 +694,6 @@
   [
    "2026-12-02",
    "19:00",
-   "Leilão Embriões HP",
-   "Outros",
-   "Embriões HP Brangus Porto Alegre - RS",
-   "91860-leilao-embrioes-hp",
-   "",
-   "banners/91860.jpg"
-  ],
-  [
-   "2026-12-02",
-   "19:00",
    "Leilão MBS Performance Sale",
    "Equinos",
    "Sale Quarto de Milha Jaguariúna - SP",
@@ -760,6 +710,16 @@
    "91800-leilao-nelore-parana-especial-final-de-ano",
    "",
    "banners/91800.jpg"
+  ],
+  [
+   "2026-12-02",
+   "19:30",
+   "2° Leilão Virtual Máquinas & Implementos DGF 2ª Etapa",
+   "Maquinários",
+   "DGF 2ª Etapa OUTROS Londrina - PR",
+   "91882-2-leilao-virtual-maquinas-implementos-dgf-2-etapa",
+   "",
+   "banners/91882.jpg"
   ],
   [
    "2026-12-02",
@@ -826,7 +786,7 @@
    "19:00",
    "Leilão Virtual ABCZ Jovem",
    "Nelore",
-   "ABCZ Jovem Nelore PO Londrina - PR",
+   "Jovem Nelore PO São Paulo - SP",
    "91868-leilao-virtual-abcz-jovem",
    "",
    "banners/91868.jpg"
@@ -906,7 +866,7 @@
    "09:00",
    "Leilão Nelore Eliza",
    "Nelore",
-   "domingo 06 DEZ Horário 09:00 Leilão Nelore Eliza Nelore PO",
+   "Eliza Nelore PO São Paulo - SP",
    "91775-leilao-nelore-eliza",
    "",
    "banners/91775.jpg"
@@ -944,12 +904,12 @@
   [
    "2026-12-07",
    "19:00",
-   "Nelore Huff",
+   "4º Leilão Virtual Fazenda Império",
    "Nelore",
-   "Huff Nelore PO Londrina - PR",
-   "91812-nelore-huff",
+   "Fazenda Império Nelore PO Londrina - PR",
+   "91818-4-leilao-virtual-fazenda-imperio",
    "",
-   "banners/91812.jpg"
+   "banners/91818.jpg"
   ],
   [
    "2026-12-07",
@@ -1020,16 +980,6 @@
    "91816-nelore-shangrila",
    "",
    "banners/91816.jpg"
-  ],
-  [
-   "2026-12-10",
-   "19:00",
-   "4º Leilão Virtual Fazenda Império",
-   "Nelore",
-   "Fazenda Império Nelore PO Londrina - PR",
-   "91818-4-leilao-virtual-fazenda-imperio",
-   "",
-   "banners/91818.jpg"
   ],
   [
    "2026-12-10",
@@ -1134,10 +1084,10 @@
   [
    "2026-12-14",
    "19:00",
-   "Nelore Ibaneis Baby",
+   "Leilão Virtual Nelore Ibaneis",
    "Nelore",
-   "Ibaneis Baby Nelore PO Londrina - PR",
-   "91829-nelore-ibaneis-baby",
+   "Ibaneis Nelore PO Londrina - PR",
+   "91829-leilao-virtual-nelore-ibaneis",
    "",
    "banners/91829.jpg"
   ],
@@ -1154,10 +1104,10 @@
   [
    "2026-12-15",
    "19:00",
-   "Nelore Ibaneis Doadoras",
+   "Leilão Virtual Nelore Ibaneis.",
    "Nelore",
-   "Ibaneis Doadoras Nelore PO Londrina - PR",
-   "91831-nelore-ibaneis-doadoras",
+   "Ibaneis. Nelore PO Londrina - PR",
+   "91831-leilao-virtual-nelore-ibaneis",
    "",
    "banners/91831.jpg"
   ],
@@ -1184,10 +1134,10 @@
   [
    "2026-12-16",
    "19:00",
-   "Nelore Ibaneis",
+   "Leilão Virtual Nelore Ibaneis;",
    "Nelore",
-   "Ibaneis Nelore PO Londrina - PR",
-   "91833-nelore-ibaneis",
+   "Ibaneis; Nelore PO Londrina - PR",
+   "91833-leilao-virtual-nelore-ibaneis",
    "",
    "banners/91833.jpg"
   ],
