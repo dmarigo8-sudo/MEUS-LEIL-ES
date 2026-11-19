@@ -1,36 +1,6 @@
 {
- "atualizado": "18/11/2026 01:46",
+ "atualizado": "19/11/2026 01:49",
  "L": [
-  [
-   "2026-11-18",
-   "19:00",
-   "2º Leilão Estância Mime",
-   "Equinos",
-   "Mime Quarto de Milha Londrina - PR",
-   "91684-2-leilao-estancia-mime",
-   "",
-   "banners/91684.jpg"
-  ],
-  [
-   "2026-11-18",
-   "19:00",
-   "Leilão Poder Genético Etapa Machos - Nelore CNBJ",
-   "Nelore",
-   "CNBJ Nelore PO Londrina - PR",
-   "91654-leilao-poder-genetico-etapa-machos-nelore-cnbj",
-   "25559-catalogo-do-leilao-em-pdf",
-   "banners/91654.jpg"
-  ],
-  [
-   "2026-11-18",
-   "20:00",
-   "8º Leilão Virtual Nelore Caraíbas - Etapa Fêmeas",
-   "Nelore",
-   "Etapa Fêmeas Nelore PO Londrina - PR",
-   "91651-8-leilao-virtual-nelore-caraibas-etapa-femeas",
-   "25552-catalogo-do-leilao-em-pdf",
-   "banners/91651.jpg"
-  ],
   [
    "2026-11-19",
    "19:00",
@@ -74,6 +44,16 @@
   [
    "2026-11-20",
    "19:00",
+   "Leilão Cataratas Collection RS & Casa Branca.",
+   "Nelore",
+   "Foz do Iguaçu - PR",
+   "91551-leilao-cataratas-collection-rs-casa-branca",
+   "25584-catalogo-do-leilao-em-pdf",
+   "banners/91551.jpg"
+  ],
+  [
+   "2026-11-20",
+   "19:00",
    "Leilão Virtual Agropecuária Fedrigo & Amigos",
    "Equinos",
    "Amigos Quarto de Milha Londrina - PR",
@@ -92,23 +72,13 @@
    "banners/91718.jpg"
   ],
   [
-   "2026-11-20",
-   "20:00",
-   "Leilão Cataratas Collection RS & Casa Branca.",
-   "Nelore",
-   "Foz do Iguaçu - PR",
-   "91551-leilao-cataratas-collection-rs-casa-branca",
-   "25571-catalogo-do-leilao-em-pdf",
-   "banners/91551.jpg"
-  ],
-  [
    "2026-11-21",
    "12:00",
    "Leilão Cataratas Collection RS & Casa Branca;",
    "Nelore",
    "Foz do Iguaçu - PR",
    "91569-leilao-cataratas-collection-rs-casa-branca",
-   "",
+   "25586-catalogo-do-leilao-em-pdf",
    "banners/91569.jpg"
   ],
   [
@@ -136,7 +106,7 @@
    "15:00",
    "31° Leilão Competition Faz Santa Maria",
    "Equinos",
-   "Maria Quarto de Milha Londrina - PR",
+   "Maria Quarto de Milha Itápolis - SP",
    "91747-31-leilao-competition-faz-santa-maria",
    "",
    "banners/91747.jpg"
@@ -208,8 +178,18 @@
    "Outros",
    "Comprovada Agroottoni Angus Porto Alegre - RS",
    "91878-leilao-genetica-comprovada-agroottoni",
-   "25562-catalogo-do-leilao-em-pdf",
+   "25580-catalogo-do-leilao-em-pdf",
    "banners/91878.jpg"
+  ],
+  [
+   "2026-11-22",
+   "17:00",
+   "Leilão Virtual Nelore Gran Filé 2026",
+   "Nelore",
+   "Filé 2026 Nelore PO Londrina - PR",
+   "91886-leilao-virtual-nelore-gran-file-2026",
+   "",
+   "banners/91886.jpg"
   ],
   [
    "2026-11-23",
@@ -278,7 +258,7 @@
    "Outros",
    "da Balança Braford Porto Alegre - RS",
    "91848-ii-remate-estancia-carcavio-e-fazenda-da-balanca",
-   "",
+   "25577-catalogo-do-leilao-em-pdf",
    "banners/91848.jpg"
   ],
   [
@@ -308,7 +288,7 @@
    "Nelore",
    "Elite Amor Nelore PO Londrina - PR",
    "91634-leilao-virtual-nelore-elite-amor",
-   "",
+   "25583-catalogo-do-leilao-em-pdf",
    "banners/91634.jpg"
   ],
   [
@@ -456,7 +436,7 @@
    "12:00",
    "36º Leilão Genética Conquista - Nelore & Senepol",
    "Nelore",
-   "& Senepol Nelore PO Londrina - PR",
+   "Londrina - PR",
    "91809-36-leilao-genetica-conquista-nelore-senepol",
    "",
    "banners/91809.jpg"
@@ -483,7 +463,7 @@
   ],
   [
    "2026-11-28",
-   "12:00",
+   "13:00",
    "Leilão Virtual Genetic Access",
    "Leite",
    "Genetic Access Gir Leiteiro Londrina - PR",
@@ -664,10 +644,10 @@
   [
    "2026-12-01",
    "19:30",
-   "Leilão Caruana",
+   "Leilão Fazenda Caruana Virtual",
    "Equinos",
-   "Caruana Quarto de Milha Londrina - PR",
-   "91840-leilao-caruana",
+   "Virtual Quarto de Milha Londrina - PR",
+   "91840-leilao-fazenda-caruana-virtual",
    "",
    "banners/91840.jpg"
   ],
@@ -924,6 +904,16 @@
   [
    "2026-12-08",
    "19:00",
+   "2º Leilão Virtual Matrizes Mato Verde",
+   "Nelore",
+   "Mato Verde Nelore PO Londrina - PR",
+   "91814-2-leilao-virtual-matrizes-mato-verde",
+   "",
+   "banners/91814.jpg"
+  ],
+  [
+   "2026-12-08",
+   "19:00",
    "Leilão Estância Sankara",
    "Equinos",
    "Sankara Quarto de Milha Londrina - PR",
@@ -952,14 +942,14 @@
    "banners/91845.jpg"
   ],
   [
-   "2026-12-08",
-   "20:00",
-   "Nelore Mato Verde Matrizes",
-   "Nelore",
-   "Verde Matrizes Nelore PO Londrina - PR",
-   "91814-nelore-mato-verde-matrizes",
+   "2026-12-09",
+   "09:00",
+   "Vitrine Holandês - Sítio Perilão",
+   "Leite",
+   "Sítio Perilão Holandês Londrina - PR",
+   "91885-vitrine-holandes-sitio-perilao",
    "",
-   "banners/91814.jpg"
+   "banners/91885.jpg"
   ],
   [
    "2026-12-09",
@@ -970,6 +960,16 @@
    "91863-leilao-gran-reserva-tradicao-azul",
    "",
    "banners/91863.jpg"
+  ],
+  [
+   "2026-12-09",
+   "20:00",
+   "Leilão Vitória",
+   "Nelore",
+   "Leilão Vitória Nelore PO Teresina - PI",
+   "91887-leilao-vitoria",
+   "",
+   "banners/91887.jpg"
   ],
   [
    "2026-12-09",
@@ -1180,6 +1180,16 @@
    "91841-2-shopping-nelore-sm-convidados",
    "",
    "banners/91841.jpg"
+  ],
+  [
+   "2026-12-19",
+   "09:00",
+   "Inauguração do Instituto Transbordar",
+   "Outros",
+   "Inauguração do Instituto Transbordar Londrina - PR",
+   "91853-inauguracao-do-instituto-transbordar",
+   "",
+   "banners/91853.jpg"
   ]
  ]
 }
