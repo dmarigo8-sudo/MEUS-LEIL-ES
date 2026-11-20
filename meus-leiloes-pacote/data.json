@@ -1,36 +1,6 @@
 {
- "atualizado": "19/11/2026 01:49",
+ "atualizado": "20/11/2026 01:45",
  "L": [
-  [
-   "2026-11-19",
-   "19:00",
-   "1° Leilão Legends of Ranch",
-   "Equinos",
-   "Ranch Quarto de Milha Londrina - PR",
-   "91685-1-leilao-legends-of-ranch",
-   "",
-   "banners/91685.jpg"
-  ],
-  [
-   "2026-11-19",
-   "19:00",
-   "Leilão Cataratas Collection RS & Casa Branca",
-   "Nelore",
-   "do Iguaçu Foz do Iguaçu - PR",
-   "91550-leilao-cataratas-collection-rs-casa-branca",
-   "25570-catalogo-do-leilao-em-pdf",
-   "banners/91550.jpg"
-  ],
-  [
-   "2026-11-19",
-   "20:00",
-   "8º Leilão Virtual Nelore Caraíbas - Etapa Touros",
-   "Nelore",
-   "Etapa Touros Nelore PO Londrina - PR",
-   "91653-8-leilao-virtual-nelore-caraibas-etapa-touros",
-   "25558-catalogo-do-leilao-em-pdf",
-   "banners/91653.jpg"
-  ],
   [
    "2026-11-20",
    "19:00",
@@ -88,7 +58,7 @@
    "Nelore",
    "& Convidados Nelore Pintado Londrina - PR",
    "91658-leilao-nelore-pintado-genesis-convidados",
-   "25572-catalogo-do-leilao-em-pdf",
+   "25599-catalogo-do-leilao-em-pdf",
    "banners/91658.jpg"
   ],
   [
@@ -110,6 +80,16 @@
    "91747-31-leilao-competition-faz-santa-maria",
    "",
    "banners/91747.jpg"
+  ],
+  [
+   "2026-11-22",
+   "09:00",
+   "170° Programa de Domingo - Programa e Soma Leilões",
+   "Gado de Corte",
+   "Leilões Gado de Corte Cuiabá - MT",
+   "91888-170-programa-de-domingo-programa-e-soma-leiloes",
+   "",
+   "banners/91888.jpg"
   ],
   [
    "2026-11-22",
@@ -138,18 +118,8 @@
    "Nelore",
    "Terra Brava Nelore PO Londrina - PR",
    "91728-5-mega-leilao-geracao-ouro-terra-brava",
-   "",
+   "25589-catalogo-do-leilao-em-pdf",
    "banners/91728.jpg"
-  ],
-  [
-   "2026-11-22",
-   "10:00",
-   "Leilão Virtual Fazenda Preciosa Miguel Faitta",
-   "Outros",
-   "Faitta Gado de Corte Cuiabá - MT",
-   "91725-leilao-virtual-fazenda-preciosa-miguel-faitta",
-   "25553-catalogo-do-leilao-em-pdf",
-   "banners/91725.jpg"
   ],
   [
    "2026-11-22",
@@ -173,6 +143,16 @@
   ],
   [
    "2026-11-22",
+   "14:00",
+   "Leilão Virtual Fazenda Preciosa Miguel Faitta",
+   "Nelore",
+   "Miguel Faitta Nelore PO Cuiabá - MT",
+   "91725-leilao-virtual-fazenda-preciosa-miguel-faitta",
+   "25553-catalogo-do-leilao-em-pdf",
+   "banners/91725.jpg"
+  ],
+  [
+   "2026-11-22",
    "16:00",
    "Leilão Genética Comprovada Agroottoni",
    "Outros",
@@ -188,7 +168,7 @@
    "Nelore",
    "Filé 2026 Nelore PO Londrina - PR",
    "91886-leilao-virtual-nelore-gran-file-2026",
-   "",
+   "25598-catalogo-do-leilao-em-pdf",
    "banners/91886.jpg"
   ],
   [
@@ -198,7 +178,7 @@
    "Nelore",
    "& Cerrado Nelore PO Londrina - PR",
    "91730-leilao-virtual-serra-cerrado",
-   "",
+   "25588-catalogo-do-leilao-em-pdf",
    "banners/91730.jpg"
   ],
   [
@@ -228,7 +208,7 @@
    "Nelore",
    "do Futuro Nelore PO Londrina - PR",
    "91590-leilao-virtual-bezerros-camparino-touros-do-futuro",
-   "",
+   "25592-catalogo-do-leilao-em-pdf",
    "banners/91590.jpg"
   ],
   [
@@ -278,7 +258,7 @@
    "Nelore",
    "e Matrizes Nelore PO Maceió - AL",
    "91776-leilao-virtual-genetica-varrela-reprodutores-e-matrizes",
-   "25574-catalogo-do-leilao-em-pdf",
+   "25593-catalogo-do-leilao-em-pdf",
    "banners/91776.jpg"
   ],
   [
@@ -488,7 +468,7 @@
    "Nelore",
    "da Matinha Nelore PO Londrina - PR",
    "91674-leilao-virtual-touros-jovens-da-matinha",
-   "",
+   "25590-catalogo-do-leilao-em-pdf",
    "banners/91674.jpg"
   ],
   [
@@ -596,7 +576,7 @@
    "20:00",
    "Leilão Cpex Girolando",
    "Leite",
-   "Leilão Cpex Girolando Girolando Londrina - PR",
+   "Cpex Girolando Girolando Mogi Mirim - SP",
    "91873-leilao-cpex-girolando",
    "",
    "banners/91873.jpg"
@@ -668,7 +648,7 @@
    "Nelore",
    "Vacas Paridas Nelore PO Londrina - PR",
    "91793-matrizes-matinha-edicao-vacas-paridas",
-   "",
+   "25591-catalogo-do-leilao-em-pdf",
    "banners/91793.jpg"
   ],
   [
@@ -983,6 +963,16 @@
   ],
   [
    "2026-12-10",
+   "19:00",
+   "Leilão Touros Império",
+   "Nelore",
+   "Touros Império Nelore PO Londrina - PR",
+   "91891-leilao-touros-imperio",
+   "",
+   "banners/91891.jpg"
+  ],
+  [
+   "2026-12-10",
    "20:00",
    "Leilão Elite Bavaresco",
    "Nelore",
@@ -1024,6 +1014,16 @@
   [
    "2026-12-12",
    "12:00",
+   "22º Leilão Virtual Nelore Ceia 2026",
+   "Nelore",
+   "Ceia 2026 Nelore PO Londrina - PR",
+   "91820-22-leilao-virtual-nelore-ceia-2026",
+   "",
+   "banners/91820.jpg"
+  ],
+  [
+   "2026-12-12",
+   "12:00",
    "Leilão Pintado Fest 2026.",
    "Nelore",
    "Fest 2026. Nelore Pintado Londrina - PR",
@@ -1033,13 +1033,13 @@
   ],
   [
    "2026-12-12",
-   "12:00",
-   "Nelore Ceia",
+   "13:00",
+   "Colonial Touros",
    "Nelore",
-   "Ceia Nelore PO Londrina - PR",
-   "91820-nelore-ceia",
+   "Colonial Touros Nelore PO Guanambi - BA",
+   "91892-colonial-touros",
    "",
-   "banners/91820.jpg"
+   "banners/91892.jpg"
   ],
   [
    "2026-12-12",
@@ -1143,6 +1143,16 @@
   ],
   [
    "2026-12-16",
+   "19:30",
+   "1° Leilão Garf e Amigos",
+   "Equinos",
+   "e Amigos Crioulo Porto Alegre - RS",
+   "91890-1-leilao-garf-e-amigos",
+   "",
+   "banners/91890.jpg"
+  ],
+  [
+   "2026-12-16",
    "20:00",
    "Touros Edap",
    "Nelore",
@@ -1190,6 +1200,16 @@
    "91853-inauguracao-do-instituto-transbordar",
    "",
    "banners/91853.jpg"
+  ],
+  [
+   "2026-12-20",
+   "14:00",
+   "Leilão Encerramento de Temporada 2026",
+   "Gado de Corte",
+   "2026 Gado de Corte Cuiabá - MT",
+   "91883-leilao-encerramento-de-temporada-2026",
+   "",
+   "banners/91883.jpg"
   ]
  ]
 }
