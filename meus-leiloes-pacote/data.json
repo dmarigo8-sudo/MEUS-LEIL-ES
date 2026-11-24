@@ -1,46 +1,6 @@
 {
- "atualizado": "23/11/2026 01:57",
+ "atualizado": "24/11/2026 11:20",
  "L": [
-  [
-   "2026-11-23",
-   "19:00",
-   "Leilão Virtual Serra & Cerrado",
-   "Nelore",
-   "& Cerrado Nelore PO Londrina - PR",
-   "91730-leilao-virtual-serra-cerrado",
-   "25588-catalogo-do-leilao-em-pdf",
-   "banners/91730.jpg"
-  ],
-  [
-   "2026-11-23",
-   "19:30",
-   "Leilão Agropecuária Prado's - Seleção Baby",
-   "Nelore",
-   "Seleção Baby Nelore Pintado Maceió - AL",
-   "91635-leilao-agropecuaria-prado-s-selecao-baby",
-   "25567-catalogo-do-leilao-em-pdf",
-   "banners/91635.jpg"
-  ],
-  [
-   "2026-11-23",
-   "19:30",
-   "Leilão QM e Appaloosa",
-   "Equinos",
-   "Appaloosa Quarto de Milha Londrina - PR",
-   "91765-leilao-qm-e-appaloosa",
-   "",
-   "banners/91765.jpg"
-  ],
-  [
-   "2026-11-23",
-   "20:00",
-   "Leilão Virtual Bezerros Camparino - Touros do Futuro",
-   "Nelore",
-   "do Futuro Nelore PO Londrina - PR",
-   "91590-leilao-virtual-bezerros-camparino-touros-do-futuro",
-   "25592-catalogo-do-leilao-em-pdf",
-   "banners/91590.jpg"
-  ],
   [
    "2026-11-24",
    "19:00",
@@ -50,16 +10,6 @@
    "91691-1-leilao-virtual-good-choice",
    "",
    "banners/91691.jpg"
-  ],
-  [
-   "2026-11-24",
-   "19:00",
-   "5º Leilão Virtual Barrel Selection",
-   "Equinos",
-   "Selection Quarto de Milha Londrina - PR",
-   "91690-5-leilao-virtual-barrel-selection",
-   "",
-   "banners/91690.jpg"
   ],
   [
    "2026-11-24",
@@ -78,8 +28,18 @@
    "Nelore",
    "Fazenda Modotti Nelore PO Londrina - PR",
    "91861-leilao-especial-touros-fazenda-modotti",
-   "",
+   "25603-catalogo-do-leilao-em-pdf",
    "banners/91861.jpg"
+  ],
+  [
+   "2026-11-24",
+   "19:00",
+   "Leilão Virtual Elite Nelore Amor",
+   "Nelore",
+   "Amor Nelore PO Londrina - PR",
+   "91634-leilao-virtual-elite-nelore-amor",
+   "25583-catalogo-do-leilao-em-pdf",
+   "banners/91634.jpg"
   ],
   [
    "2026-11-24",
@@ -88,18 +48,8 @@
    "Nelore",
    "e Matrizes Nelore PO Maceió - AL",
    "91776-leilao-virtual-genetica-varrela-reprodutores-e-matrizes",
-   "25593-catalogo-do-leilao-em-pdf",
+   "25605-catalogo-do-leilao-em-pdf",
    "banners/91776.jpg"
-  ],
-  [
-   "2026-11-24",
-   "19:00",
-   "Leilão Virtual Nelore Elite Amor",
-   "Nelore",
-   "Elite Amor Nelore PO Londrina - PR",
-   "91634-leilao-virtual-nelore-elite-amor",
-   "25583-catalogo-do-leilao-em-pdf",
-   "banners/91634.jpg"
   ],
   [
    "2026-11-24",
@@ -134,11 +84,11 @@
   [
    "2026-11-25",
    "19:30",
-   "4° Grupo Suprema - 1ª Etapa",
+   "4° Grupo Suprema - Live",
    "Maquinários",
-   "1ª Etapa OUTROS Londrina - PR",
-   "91798-4-grupo-suprema-1-etapa",
-   "",
+   "Live OUTROS Londrina - PR",
+   "91798-4-grupo-suprema-live",
+   "25612-catalogo-do-leilao-em-pdf",
    "banners/91798.jpg"
   ],
   [
@@ -148,8 +98,18 @@
    "Nelore",
    "Ouro 2026 Nelore PO Salvador - BA",
    "91604-leilao-chave-de-ouro-2026",
-   "",
+   "25606-catalogo-do-leilao-em-pdf",
    "banners/91604.jpg"
+  ],
+  [
+   "2026-11-26",
+   "19:00",
+   "5º Leilão Virtual Barrel Selection",
+   "Equinos",
+   "Selection Quarto de Milha Londrina - PR",
+   "91690-5-leilao-virtual-barrel-selection",
+   "",
+   "banners/91690.jpg"
   ],
   [
    "2026-11-26",
@@ -158,17 +118,17 @@
    "Outros",
    "Ultrablack Porto Alegre - RS",
    "91856-leilao-4-linhas-de-touros",
-   "",
+   "25614-catalogo-do-leilao-em-pdf",
    "banners/91856.jpg"
   ],
   [
    "2026-11-26",
    "19:30",
-   "4° Grupo Suprema - 2ª Etapa",
+   "4° Grupo Suprema - 1ª Etapa",
    "Maquinários",
-   "2ª Etapa OUTROS Londrina - PR",
-   "91790-4-grupo-suprema-2-etapa",
-   "",
+   "1ª Etapa OUTROS Londrina - PR",
+   "91790-4-grupo-suprema-1-etapa",
+   "25609-catalogo-do-leilao-em-pdf",
    "banners/91790.jpg"
   ],
   [
@@ -178,7 +138,7 @@
    "Nelore",
    "Ouro 2026. Nelore PO Salvador - BA",
    "91605-leilao-chave-de-ouro-2026",
-   "",
+   "25607-catalogo-do-leilao-em-pdf",
    "banners/91605.jpg"
   ],
   [
@@ -188,7 +148,7 @@
    "Nelore",
    "Três Corações Nelore PO Londrina - PR",
    "91732-leilao-femeas-ngj-fazenda-tres-coracoes",
-   "",
+   "25602-catalogo-do-leilao-em-pdf",
    "banners/91732.jpg"
   ],
   [
@@ -204,11 +164,11 @@
   [
    "2026-11-27",
    "19:30",
-   "4° Grupo Suprema - 3ª Etapa",
+   "4° Grupo Suprema - 2ª Etapa",
    "Maquinários",
-   "3ª Etapa OUTROS Londrina - PR",
-   "91794-4-grupo-suprema-3-etapa",
-   "",
+   "2ª Etapa OUTROS Londrina - PR",
+   "91794-4-grupo-suprema-2-etapa",
+   "25610-catalogo-do-leilao-em-pdf",
    "banners/91794.jpg"
   ],
   [
@@ -224,11 +184,11 @@
   [
    "2026-11-28",
    "09:00",
-   "4° Grupo Suprema - 4ª Etapa",
+   "4° Grupo Suprema - 3ª Etapa",
    "Maquinários",
-   "4ª Etapa OUTROS Londrina - PR",
-   "91787-4-grupo-suprema-4-etapa",
-   "",
+   "3ª Etapa OUTROS Londrina - PR",
+   "91787-4-grupo-suprema-3-etapa",
+   "25608-catalogo-do-leilao-em-pdf",
    "banners/91787.jpg"
   ],
   [
@@ -284,11 +244,11 @@
   [
    "2026-11-29",
    "09:00",
-   "4° Grupo Suprema - 5ª Etapa",
+   "4° Grupo Suprema - 4ª Etapa",
    "Outros",
-   "5ª Etapa Londrina - PR",
-   "91796-4-grupo-suprema-5-etapa",
-   "",
+   "4ª Etapa Londrina - PR",
+   "91796-4-grupo-suprema-4-etapa",
+   "25611-catalogo-do-leilao-em-pdf",
    "banners/91796.jpg"
   ],
   [
@@ -338,7 +298,7 @@
    "Equinos",
    "São Carlos - SP",
    "91696-1-leilao-elite-rfa-haras-amigos",
-   "",
+   "25604-catalogo-do-leilao-em-pdf",
    "banners/91696.jpg"
   ],
   [
@@ -414,16 +374,6 @@
   [
    "2026-11-30",
    "20:00",
-   "Leilão Seleção Especial do Chicão",
-   "Nelore",
-   "do Chicão Nelore PO Londrina - PR",
-   "91877-leilao-selecao-especial-do-chicao",
-   "",
-   "banners/91877.jpg"
-  ],
-  [
-   "2026-11-30",
-   "20:00",
    "Leilão Virtual Fazenda API - Etapa Matrizes",
    "Nelore",
    "Etapa Matrizes Nelore PO Catu - BA",
@@ -444,10 +394,10 @@
   [
    "2026-12-01",
    "19:30",
-   "2° Leilão Virtual Máquinas & Implementos DGF",
+   "2° Leilão Virtual Máquinas & Implementos DGF - Live",
    "Maquinários",
-   "& Implementos DGF OUTROS Londrina - PR",
-   "91884-2-leilao-virtual-maquinas-implementos-dgf",
+   "Live OUTROS Londrina - PR",
+   "91884-2-leilao-virtual-maquinas-implementos-dgf-live",
    "",
    "banners/91884.jpg"
   ],
@@ -504,10 +454,10 @@
   [
    "2026-12-02",
    "19:30",
-   "2° Leilão Virtual Máquinas & Implementos DGF 2ª Etapa",
+   "2° Leilão Virtual Máquinas & Implementos DGF 1ª Etapa",
    "Maquinários",
-   "DGF 2ª Etapa OUTROS Londrina - PR",
-   "91882-2-leilao-virtual-maquinas-implementos-dgf-2-etapa",
+   "DGF 1ª Etapa OUTROS Londrina - PR",
+   "91882-2-leilao-virtual-maquinas-implementos-dgf-1-etapa",
    "",
    "banners/91882.jpg"
   ],
@@ -553,6 +503,16 @@
   ],
   [
    "2026-12-03",
+   "19:00",
+   "Leilão Seleção Especial do Chicão",
+   "Nelore",
+   "do Chicão Nelore PO Londrina - PR",
+   "91877-leilao-selecao-especial-do-chicao",
+   "",
+   "banners/91877.jpg"
+  ],
+  [
+   "2026-12-03",
    "20:00",
    "62° Leilão Baby Gir Calciolandia",
    "Leite",
@@ -594,10 +554,10 @@
   [
    "2026-12-05",
    "13:00",
-   "Garrotes ABS Brasil",
+   "1º Leilão Virtual ABS Z",
    "Nelore",
-   "ABS Brasil Nelore PO Londrina - PR",
-   "91849-garrotes-abs-brasil",
+   "ABS Z Nelore PO Londrina - PR",
+   "91849-1-leilao-virtual-abs-z",
    "",
    "banners/91849.jpg"
   ],
@@ -730,6 +690,16 @@
    "91866-leilao-estancia-sankara",
    "",
    "banners/91866.jpg"
+  ],
+  [
+   "2026-12-08",
+   "19:00",
+   "Leilão Legado Quarto de Milha",
+   "Equinos",
+   "Milha Quarto de Milha Londrina - PR",
+   "91893-leilao-legado-quarto-de-milha",
+   "",
+   "banners/91893.jpg"
   ],
   [
    "2026-12-08",
@@ -1034,10 +1004,10 @@
   [
    "2026-12-20",
    "14:00",
-   "Leilão Encerramento de Temporada 2026",
+   "Programa de Domingo - Leilão Encerramento de Temporada 2026",
    "Gado de Corte",
    "2026 Gado de Corte Cuiabá - MT",
-   "91883-leilao-encerramento-de-temporada-2026",
+   "91883-programa-de-domingo-leilao-encerramento-de-temporada-2026",
    "",
    "banners/91883.jpg"
   ]
