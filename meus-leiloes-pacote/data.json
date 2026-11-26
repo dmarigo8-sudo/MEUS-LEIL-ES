@@ -1,46 +1,6 @@
 {
- "atualizado": "25/11/2026 10:38",
+ "atualizado": "26/11/2026 10:15",
  "L": [
-  [
-   "2026-11-25",
-   "19:00",
-   "5º Leilão Cavalos de Laço Amigos do Sinuelo",
-   "Equinos",
-   "Londrina - PR",
-   "91766-5-leilao-cavalos-de-laco-amigos-do-sinuelo",
-   "",
-   "banners/91766.jpg"
-  ],
-  [
-   "2026-11-25",
-   "19:00",
-   "Leilão Especial Fêmeas Fazenda Modotti",
-   "Nelore",
-   "Fazenda Modotti Nelore PO Londrina - PR",
-   "91731-leilao-especial-femeas-fazenda-modotti",
-   "25627-catalogo-do-leilao-em-pdf",
-   "banners/91731.jpg"
-  ],
-  [
-   "2026-11-25",
-   "19:30",
-   "4° Grupo Suprema - Live",
-   "Maquinários",
-   "Live OUTROS Londrina - PR",
-   "91798-4-grupo-suprema-live",
-   "25635-catalogo-do-leilao-em-pdf",
-   "banners/91798.jpg"
-  ],
-  [
-   "2026-11-25",
-   "20:00",
-   "Leilão Chave de Ouro 2026",
-   "Nelore",
-   "Ouro 2026 Nelore PO Salvador - BA",
-   "91604-leilao-chave-de-ouro-2026",
-   "25625-catalogo-do-leilao-em-pdf",
-   "banners/91604.jpg"
-  ],
   [
    "2026-11-26",
    "19:00",
@@ -98,7 +58,7 @@
    "Nelore",
    "Sitio Arara Azul Domingos Martins - ES",
    "91606-leilao-snl-fest-2026",
-   "",
+   "25639-catalogo-do-leilao-em-pdf",
    "banners/91606.jpg"
   ],
   [
@@ -124,10 +84,10 @@
   [
    "2026-11-27",
    "20:00",
-   "Live Leilão Matinha",
+   "Live Apresentação dos Animais - Circuito Matinha",
    "Nelore",
-   "Leilão Matinha Nelore PO Londrina - PR",
-   "91894-live-leilao-matinha",
+   "Circuito Matinha Nelore PO Londrina - PR",
+   "91894-live-apresentacao-dos-animais-circuito-matinha",
    "",
    "banners/91894.jpg"
   ],
@@ -178,7 +138,7 @@
    "Nelore",
    "2026. Nelore PO Domingos Martins - ES",
    "91632-leilao-snl-fest-2026",
-   "",
+   "25640-catalogo-do-leilao-em-pdf",
    "banners/91632.jpg"
   ],
   [
@@ -204,10 +164,10 @@
   [
    "2026-11-29",
    "09:00",
-   "Leilão Virtual Touros Jovens da Matinha",
+   "Leilão Virtual Circuito Matinha - Touros Jovens",
    "Nelore",
-   "da Matinha Nelore PO Londrina - PR",
-   "91674-leilao-virtual-touros-jovens-da-matinha",
+   "Touros Jovens Nelore PO Londrina - PR",
+   "91674-leilao-virtual-circuito-matinha-touros-jovens",
    "25621-catalogo-do-leilao-em-pdf",
    "banners/91674.jpg"
   ],
@@ -218,7 +178,7 @@
    "Nelore",
    "Jovens Doadoras Nelore PO Londrina - PR",
    "91672-5-mega-leilao-geracao-de-ouro-terra-brava-jovens-doadoras",
-   "",
+   "25637-catalogo-do-leilao-em-pdf",
    "banners/91672.jpg"
   ],
   [
@@ -238,7 +198,7 @@
    "Nelore",
    "2026; Nelore PO Domingos Martins - ES",
    "91675-leilao-snl-fest-2026",
-   "",
+   "25641-catalogo-do-leilao-em-pdf",
    "banners/91675.jpg"
   ],
   [
@@ -324,22 +284,22 @@
   [
    "2026-11-30",
    "20:00",
-   "Leilão Cpex Girolando",
-   "Leite",
-   "Cpex Girolando Girolando Mogi Mirim - SP",
-   "91873-leilao-cpex-girolando",
-   "",
-   "banners/91873.jpg"
-  ],
-  [
-   "2026-11-30",
-   "20:00",
    "Leilão Virtual Fazenda API - Etapa Matrizes",
    "Nelore",
    "Etapa Matrizes Nelore PO Catu - BA",
    "91677-leilao-virtual-fazenda-api-etapa-matrizes",
    "",
    "banners/91677.jpg"
+  ],
+  [
+   "2026-11-30",
+   "20:00",
+   "Mega Leilão CPEX 2026 - Edição Leite",
+   "Leite",
+   "Edição Leite Girolando Mogi Mirim - SP",
+   "91873-mega-leilao-cpex-2026-edicao-leite",
+   "",
+   "banners/91873.jpg"
   ],
   [
    "2026-12-01",
@@ -374,22 +334,22 @@
   [
    "2026-12-01",
    "20:00",
-   "Cpex Gir",
-   "Leite",
-   "20:00 Cpex Gir Gir Londrina - PR",
-   "91874-cpex-gir",
-   "",
-   "banners/91874.jpg"
+   "Leilão Virtual Circuito Matinha - Matrizes Paridas",
+   "Nelore",
+   "Matrizes Paridas Nelore PO Londrina - PR",
+   "91793-leilao-virtual-circuito-matinha-matrizes-paridas",
+   "25624-catalogo-do-leilao-em-pdf",
+   "banners/91793.jpg"
   ],
   [
    "2026-12-01",
    "20:00",
-   "Matrizes Matinha - Edição Vacas Paridas",
-   "Nelore",
-   "Vacas Paridas Nelore PO Londrina - PR",
-   "91793-matrizes-matinha-edicao-vacas-paridas",
-   "25624-catalogo-do-leilao-em-pdf",
-   "banners/91793.jpg"
+   "Mega Leilão CPEX 2026 - Edição Leite.",
+   "Leite",
+   "Edição Leite. Gir Mogi Mirim - SP",
+   "91874-mega-leilao-cpex-2026-edicao-leite",
+   "",
+   "banners/91874.jpg"
   ],
   [
    "2026-12-02",
@@ -424,10 +384,10 @@
   [
    "2026-12-02",
    "20:00",
-   "Cpex Sindi",
+   "Mega Leilão CPEX 2026 - Edição Leite;",
    "Outros",
-   "20:00 Cpex Sindi Sindi Londrina - PR",
-   "91875-cpex-sindi",
+   "Edição Leite; Sindi Mogi Mirim - SP",
+   "91875-mega-leilao-cpex-2026-edicao-leite",
    "",
    "banners/91875.jpg"
   ],
@@ -553,11 +513,11 @@
   ],
   [
    "2026-12-05",
-   "20:00",
-   "Nelore Fest",
+   "19:00",
+   "Nelore Fest 2026",
    "Nelore",
-   "Fest Nelore PO Londrina - PR",
-   "91804-nelore-fest",
+   "Fest 2026 Nelore PO Londrina - PR",
+   "91804-nelore-fest-2026",
    "",
    "banners/91804.jpg"
   ],
