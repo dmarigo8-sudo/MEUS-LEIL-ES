@@ -1,56 +1,6 @@
 {
- "atualizado": "27/11/2026 10:13",
+ "atualizado": "28/11/2026 09:28",
  "L": [
-  [
-   "2026-11-27",
-   "19:00",
-   "Leilão SNL Fest 2026",
-   "Nelore",
-   "Sitio Arara Azul Domingos Martins - ES",
-   "91606-leilao-snl-fest-2026",
-   "25639-catalogo-do-leilao-em-pdf",
-   "banners/91606.jpg"
-  ],
-  [
-   "2026-11-27",
-   "19:00",
-   "Live Apresentação dos Animais - Circuito Matinha",
-   "Nelore",
-   "Circuito Matinha Nelore PO Londrina - PR",
-   "91894-live-apresentacao-dos-animais-circuito-matinha",
-   "",
-   "banners/91894.jpg"
-  ],
-  [
-   "2026-11-27",
-   "19:30",
-   "4° Grupo Suprema - 2ª Etapa",
-   "Maquinários",
-   "2ª Etapa OUTROS Londrina - PR",
-   "91794-4-grupo-suprema-2-etapa",
-   "25633-catalogo-do-leilao-em-pdf",
-   "banners/91794.jpg"
-  ],
-  [
-   "2026-11-27",
-   "20:00",
-   "Leilão Roping Futurities - Sapucaia & Rancho FF",
-   "Equinos",
-   "FF Quarto de Milha Pindamonhangaba - SP",
-   "91694-leilao-roping-futurities-sapucaia-rancho-ff",
-   "",
-   "banners/91694.jpg"
-  ],
-  [
-   "2026-11-28",
-   "09:00",
-   "4° Grupo Suprema - 3ª Etapa",
-   "Maquinários",
-   "3ª Etapa OUTROS Londrina - PR",
-   "91787-4-grupo-suprema-3-etapa",
-   "25631-catalogo-do-leilao-em-pdf",
-   "banners/91787.jpg"
-  ],
   [
    "2026-11-28",
    "12:00",
@@ -70,6 +20,16 @@
    "91809-36-leilao-genetica-conquista-nelore-senepol",
    "25654-catalogo-do-leilao-em-pdf",
    "banners/91809.jpg"
+  ],
+  [
+   "2026-11-28",
+   "12:00",
+   "4° Grupo Suprema - 3ª Etapa",
+   "Maquinários",
+   "3ª Etapa OUTROS Londrina - PR",
+   "91787-4-grupo-suprema-3-etapa",
+   "",
+   "banners/91787.jpg"
   ],
   [
    "2026-11-28",
@@ -105,10 +65,10 @@
    "2026-11-29",
    "09:00",
    "4° Grupo Suprema - 4ª Etapa",
-   "Outros",
-   "4ª Etapa Londrina - PR",
+   "Maquinários",
+   "4ª Etapa OUTROS Londrina - PR",
    "91796-4-grupo-suprema-4-etapa",
-   "25634-catalogo-do-leilao-em-pdf",
+   "25668-catalogo-do-leilao-em-pdf",
    "banners/91796.jpg"
   ],
   [
@@ -148,7 +108,7 @@
    "Nelore",
    "2026; Nelore PO Domingos Martins - ES",
    "91675-leilao-snl-fest-2026",
-   "25641-catalogo-do-leilao-em-pdf",
+   "25660-catalogo-do-leilao-em-pdf",
    "banners/91675.jpg"
   ],
   [
@@ -218,7 +178,7 @@
    "Maquinários",
    "5ª Etapa OUTROS Londrina - PR",
    "91895-4-grupo-suprema-5-etapa",
-   "25636-catalogo-do-leilao-em-pdf",
+   "25665-catalogo-do-leilao-em-pdf",
    "banners/91895.jpg"
   ],
   [
@@ -354,10 +314,10 @@
   [
    "2026-12-03",
    "19:00",
-   "Leilão Catoni",
+   "Leilão Cattoni: Origem, Seleção e Futuro",
    "Outros",
    "Ultrablack Londrina - PR",
-   "91859-leilao-catoni",
+   "91859-leilao-cattoni-origem-selecao-e-futuro",
    "",
    "banners/91859.jpg"
   ],
@@ -474,16 +434,6 @@
   [
    "2026-12-05",
    "13:00",
-   "Leilão Nelore Reconcavo",
-   "Nelore",
-   "sábado 05 DEZ Horário 13:00 Leilão Nelore Reconcavo Nelore PO",
-   "91788-leilao-nelore-reconcavo",
-   "",
-   "banners/91788.jpg"
-  ],
-  [
-   "2026-12-05",
-   "13:00",
    "Leilão RH Ranch & Amigos 2026",
    "Equinos",
    "de Milha Campos dos Goytacazes - RJ",
@@ -496,7 +446,7 @@
    "19:00",
    "Nelore Fest 2026",
    "Nelore",
-   "Fest 2026 Nelore PO Londrina - PR",
+   "2026 Nelore PO São Paulo - SP",
    "91804-nelore-fest-2026",
    "",
    "banners/91804.jpg"
